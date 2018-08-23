@@ -103,7 +103,7 @@ Mayors and other municipal leaders play a leadership role in advancing expanded 
 
 *	In 1991, **San Francisco** voters approved an amendment to the city charter that guaranteed funding in the city budget for youth programs. The Children’s Amendment created a new [Children’s Fund](https://www.dcyf.org/index.aspx?page=44) and designated a portion of property taxes each year—3 cents per $100 of assessed value—for supportive programs and services. The fund was reauthorized in November 2000. The Children’s Fund, administered by the city’s Department of Children, Youth, and Their Families, supports child care, recreation, after-school care, arts, health, workforce readiness, youth empowerment, violence prevention, educational enrichment, and family support. The program is particularly strong, as the department undertakes a 3-year planning cycle that involves assessing community needs, determining what types of services will be supported, and using a competitive process to select nonprofit organizations that will receive funding. The department also leads a citywide effort to foster collaboration among city departments, the school district, private funders, families, and community organizations to enhance program access and quality.
 
-#### Local policies that support longer school days/years
+#### Local policies that support longer school days and years
 In cities where the mayor has some authority over the school system, the city—in partnership with school boards and teachers’ unions—can lengthen the school day and/or year.
 
 * In January 2015, **Boston** Public Schools (BPS) and the Boston Teachers Union (BTU) agreed [to expand the school day by 40 minutes](https://www.bostonglobe.com/metro/2015/01/28/longer-school-day-for-boston-schools-wins-final-approval/S8FBcJqTnbA9jaZzSmVo1J/story.html) at 60 elementary and middle schools beginning with 20 schools in the 2015–16 school year. The agreement was ratified by a vote of the BTU teachers by a 4-to-1 margin. The city contributed the additional funding needed to cover extra pay for teachers and additional staff, such as music and art teachers who provide more enrichment during the longer day. Expanded learning time (ELT) schools submitted implementation plans, with each school having a unique focus based on the needs of its students, ranging from world languages to project-based learning. Among the program’s strengths are its inclusion of summer hours, teacher-led trainings for teacher facilitators of the ELT program in each school, and a 40-minute block of teacher-led collaborative planning time that all ELT schools have incorporated into their schedules. By 2018, [BPS](https://www.bostonpublicschools.org/Page/6564) had offered extended learning time to over 23,000 students.
@@ -137,18 +137,18 @@ High-quality implementation is a crucial determinant of positive program outcome
 ___
 ### Endnotes
 
-| 7  | Putnam, R. (2016). Our Kids; Pamela R. Bennett, Amy C. Lutz, and Lakshmi Jayaram (2012). Beyond the Schoolyard: The Role of Parenting Logics, Financial Resources, and Social Institutions in the Social Class Gap in Structured Activity Participation. Sociology of Education 85(2) 131–157, 2012. |
-| 8  | Maier, A., Daniel, J., Oakes, J. and Lam, L. (2017). Community Schools |
-| 9  | Maier, A., Daniel, J., Oakes, J. and Lam, L. (2017). Community Schools |
-| 10 | Journey for Justice Alliance. (2018). Failing Brown v. Board. [https://www.j4jalliance.com/failing-brown-finding-and-demands/](https://www.j4jalliance.com/failing-brown-finding-and-demands/) |
-| 11 | Afterschool Alliance. (2014). America After 3PM: Afterschool Programs in Demand. Washington, D.C. |
-| 12 | Afterschool Alliance. (2014). America After 3PM. |
-| 13 | Afterschool Alliance. (2014). America After 3PM. |
-| 14 | Afterschool Alliance. (2014). America After 3PM. |
-| 15 | Afterschool Alliance. (2014). America After 3PM. |
-| 16 | The 49th Annual PDK Poll of the Public’s Attitudes Toward the Public Schools: Academic achievement isn’t the only mission (2017) Phi Delta Kappan, Vol 99, Issue 1, pp. NP1 - NP32 |
-| 17 | Four Point Educational Partners, 2017, “Governance Structures for City Afterschool Systems: Three Models,” The Wallace Foundation. [http://www.wallacefoundation.org/knowledge-center/pages/governance-structures-for-city-afterschool-systems-three-models.aspx](http://www.wallacefoundation.org/knowledge-center/pages/governance-structures-for-city-afterschool-systems-three-models.aspx)|
-| 18 | Katie Brackenridge, Jessica Gunderson, Mary Perry, “Expanding Learning: A Powerful Strategy for Equity’” Partnership for Children & Youth (PCY)and PACE Continuous Improvement Brief 03-17 - October 2017 |
-| 19 | Castrechini, S., & London, R. A. (2012). Positive student outcomes in community schools. Washington, DC: Center for American Progress. |
+| [7](chapter-4#why-expand-and-deepen-learning-time-and-opportunities) | Putnam, R. (2016). Our Kids; Pamela R. Bennett, Amy C. Lutz, and Lakshmi Jayaram (2012). Beyond the Schoolyard: The Role of Parenting Logics, Financial Resources, and Social Institutions in the Social Class Gap in Structured Activity Participation. _Sociology of Education_ 85(2) 131–157, 2012. |
+| [8](chapter-4#why-expand-and-deepen-learning-time-and-opportunities) | Maier, A., Daniel, J., Oakes, J. and Lam, O. (2017). Community Schools |
+| [9](chapter-4#why-expand-and-deepen-learning-time-and-opportunities) | Maier, A., Daniel, J., Oakes, J. and Lam, O. (2017). Community Schools |
+| [10](chapter-4#the-need-is-great-and-public-support-is-strong) | Journey for Justice Alliance. (2018). Failing Brown v. Board. [https://www.j4jalliance.com/failing-brown-finding-and-demands/](https://www.j4jalliance.com/failing-brown-finding-and-demands/) |
+| [11](chapter-4#the-need-is-great-and-public-support-is-strong) | Afterschool Alliance. (2014). America After 3PM: Afterschool Programs in Demand. Washington, D.C. |
+| [12](chapter-4#the-need-is-great-and-public-support-is-strong) | Afterschool Alliance. (2014). America After 3PM. |
+| [13](chapter-4#the-need-is-great-and-public-support-is-strong) | Afterschool Alliance. (2014). America After 3PM. |
+| [14](chapter-4#the-need-is-great-and-public-support-is-strong) | Afterschool Alliance. (2014). America After 3PM. |
+| [15](chapter-4#the-need-is-great-and-public-support-is-strong) | Afterschool Alliance. (2014). America After 3PM. |
+| [16](chapter-4#the-need-is-great-and-public-support-is-strong) | The 49th Annual PDK Poll of the Public’s Attitudes Toward the Public Schools: Academic achievement isn’t the only mission (2017) Phi Delta Kappan, Vol 99, Issue 1, pp. NP1 - NP32 |
+| [17](chapter-4#municipal-policies-that-support-out-of-school-time-learning-opportunities) | Four Point Educational Partners, 2017, _Governance Structures for City Afterschool Systems: Three Models._ New York, NY: The Wallace Foundation. Retrieved August 1, 2018 from  [http://www.wallacefoundation.org/knowledge-center/pages/governance-structures-for-city-afterschool-systems-three-models.aspx](http://www.wallacefoundation.org/knowledge-center/pages/governance-structures-for-city-afterschool-systems-three-models.aspx)|
+| [18](chapter-4#local-policies-that-support-longer-school-days-and-years) | American Federation of Teachers & Meriden Federation of Teachers. (2014). _It’s about time: Lessons from expanded learning time in Meridan, CT_. Washington, DC: American Federation of Teachers. |
+| [19](chapter-4#characteristics-of-high-quality-implementation) | Katie Brackenridge, Jessica Gunderson, Mary Perry, _Expanding Learning: A Powerful Strategy for Equity_. Partnership for Children & Youth (PCY) and Policy Analysis for California Education (PACE) |
 
 [See all Endnotes](endnotes)

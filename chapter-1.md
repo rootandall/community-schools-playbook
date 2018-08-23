@@ -70,9 +70,9 @@ The Coalition for Community Schools (CCS), in partnership with dozens of communi
 ___
 ### Endnotes
 
-| 1 | Rogers, J. S. (1998). Community schools: Lessons from the past and present; Kirp, D. L. (2011) Kids first: Five big ideas for transforming children’s lives. New York: Public Affairs. Note that while this kind of help is especially beneficial to poor children, who otherwise do without, middle-class families would also benefit from the after-school and summer activities; what’s more, having a clinic on the premises means that a parent doesn’t have to leave work for their child’s doctor’s appointments. |
-| 2 | Maier, A., Daniel, J., Oakes, J., & Lam, O. (2017) Community Schools: An evidence-based school improvement strategy. Learning Policy Institute and the National Education Policy Center, 2017. |
-| 3 | Maier, A., Daniel, J., Oakes, J., & Lam, O. (2017). |
-| 4 | Oakes, J., Maier, A., & Daniel, J. (2017). Community schools: An evidence-based strategy for equitable school improvement. Boulder, CO: National Education Policy Center. Retrieved August 10, 2018 from [http://nepc.colorado.edu/publication/equitable-community-schools](http://nepc.colorado.edu/publication/equitable-community-schools) |
+| [1](chapter-1#what-are-community-schools) | Rogers, J. S. (1998). Community schools: Lessons from the past and present; Kirp, D. L. (2011) Kids first: Five big ideas for transforming children’s lives. New York: Public Affairs. Note that while this kind of help is especially beneficial to poor children, who otherwise do without, middle-class families would also benefit from the after-school and summer activities; what’s more, having a clinic on the premises means that a parent doesn’t have to leave work for their child’s doctor’s appointments. |
+| [2](chapter-1#why-community-schools) | Maier, A., Daniel, J., Oakes, J., & Lam, O. (2017) _Community Schools: An evidence-based school improvement strategy_. Learning Policy Institute and the National Education Policy Center, 2017. |
+| [3](chapter-1#what-makes-community-schools-effective) | Maier, A., Daniel, J., Oakes, J., & Lam, O. (2017). |
+| [4](chapter-1#what-makes-community-schools-effective) | Oakes, J., Maier, A., & Daniel, J. (2017). _Community schools: An evidence-based strategy for equitable school improvement_. Boulder, CO: National Education Policy Center. Retrieved August 10, 2018 from [http://nepc.colorado.edu/publication/equitable-community-schools](http://nepc.colorado.edu/publication/equitable-community-schools) |
 
 [See all Endnotes](endnotes)

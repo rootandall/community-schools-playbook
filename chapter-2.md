@@ -186,6 +186,6 @@ Successfully implementing community schools is not simple or easy. But good know
 ___
 ### Endnotes
 
-| 5  | [http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2014-2015/De+Blasio+Administration%E2%80%99s+First+45+Community+Schools+Get+Paired+with+Community+Partners+and+Prepare.htm](http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2014-2015/De+Blasio+Administration%E2%80%99s+First+45+Community+Schools+Get+Paired+with+Community+Partners+and+Prepare.htm) |
+| [5](chapter-2#mayoral-initiatives) |New York City Department of Education. (2014). _De Blasio Administration’s first 45 community schools get paired with community partners and Prepare for 2015 launch._ New York, New York: New York City Department of Education. Retrieved August 13, 2018 from [https://www.schools.nyc.gov/about-us/news/announcements/contentdetails/2014/12/01/de-blasio-administration-s-first-45-community-schools-get-paired-with-community-partners-and-prepare-for-2015-launch](https://www.schools.nyc.gov/about-us/news/announcements/contentdetails/2014/12/01/de-blasio-administration-s-first-45-community-schools-get-paired-with-community-partners-and-prepare-for-2015-launch) |
 
 [See all Endnotes](endnotes)
