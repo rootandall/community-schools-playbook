@@ -1,0 +1,143 @@
+<!-- Sidebar -->
+  <div id="sidebar">
+    <div class="inner">
+      {% assign current = page.url | downcase | split: '/' %}
+      <!-- Search -->
+        <section id="search" class="alt">
+          <form method="post" action="#">
+            <input type="text" name="query" id="query" placeholder="Search" />
+          </form>
+        </section>
+
+      <!-- Menu -->
+        <nav id="menu">
+          <header class="home">
+            <h2><a href="{{ '/' | absolute_url }}">HOME</a></h2>
+          </header>
+          <!--<ul class="actions">
+          <li><a href="{{ '/' | absolute_url }}" class="button big">Homepage</a></li>
+        </ul>-->
+          <ul>
+            <!--<li><a href="{{ '/' | absolute_url }}">Homepage</a></li>
+            <li><a href="{{ 'generic.html' | absolute_url }}">Generic</a></li>
+            <li><a href="{{ 'elements.html' | absolute_url }}">Elements</a></li>
+            <li>
+              <span class="opener">Submenu</span>
+              <ul>
+                <li><a href="#">Lorem Dolor</a></li>
+                <li><a href="#">Ipsum Adipiscing</a></li>
+                <li><a href="#">Tempus Magna</a></li>
+                <li><a href="#">Feugiat Veroeros</a></li>
+              </ul>
+            </li>-->
+
+              <header class="menu">
+                <h4>Section One:<br /> The Fundamentals</h4>
+              </header>
+                <li><a href="chapter-1"{% if current[1] == 'chapter-1' %}class='active'{% endif %}><strong>Chapter 1 |</strong> An Introduction to Community Schools</a></li>
+                <li><a href="chapter-2"{% if current[1] == 'chapter-2' %}class='active'{% endif %}><strong>Chapter 2 |</strong> Policies that Advance Community Schools</a></li>
+
+
+              <header class="menu">
+                <h4>Section Two:<br /> The Four Pillars</h4>
+              </header>
+                <li><a href="chapter-3"{% if current[1] == 'chapter-3' %}class='active'{% endif %}><strong>Chapter 3 |</strong> First Pillar: Integrated Student Supports</a></li>
+                <li><a href="chapter-4"{% if current[1] == 'chapter-4' %}class='active'{% endif %}><strong>Chapter 4 |</strong> Second Pillar: Expanded and Enriched Learning Time and Opportunities</a></li>
+                <li><a href="chapter-5"{% if current[1] == 'chapter-5' %}class='active'{% endif %}><strong>Chapter 5 |</strong> Third Pillar: Family and Community Engagement</a></li>
+                <li><a href="chapter-6"{% if current[1] == 'chapter-6' %}class='active'{% endif %}><strong>Chapter 6 |</strong> Fourth Pillar: Collaborative Leadership and Practices</a></li>
+
+
+              <header class="menu">
+                <h4>Section Three:<br /> Resources You Can Use</h4>
+              </header>
+                <li><a href="chapter-7"{% if current[1] == 'chapter-7' %}class='active'{% endif %}><strong>Chapter 7 |</strong> Messaging: How to Effectively Communicate for Community Schools</a></li>
+                <li{% if current[1] == 'model-leg_state' %} class='active'{% endif %}{% if current[1] == 'model-leg_school' %} class='active'{% endif %}{% if current[1] == 'model-leg_local' %} class='active'{% endif %}><span class="opener"><strong>Chapter 8 |</strong> Model Legislation</span>
+                  <ul>
+                    <li><a href="model-leg_state">Model State Community Schools Act</a></li>
+                    <li><a href="model-leg_school">Model School Board Resolution</a></li>
+                    <li><a href="model-leg_local">Model City or County Resolution in support of community schools</a></li>
+                  </ul>
+                </li>
+
+
+              <header class="menu">
+                <h4>Appendix</h4>
+              </header>
+
+                  <li><a href="essa"{% if current[1] == 'essa' %}class='active'{% endif %}>Community Schools in ESSA State Plans</a></li>
+                  <li><a href="implementation-resources"{% if current[1] == 'implementation-resources' %}class='active'{% endif %}>Implementation Resources</a></li>
+                  <li><a href="videos-images"{% if current[1] == 'videos-images' %}class='active'{% endif %}>Videos &amp; Images</a></li>
+
+
+
+              <header class="menu">
+                <h4>Credits</h4>
+              </header>
+
+                  <li><a href="endnotes"{% if current[1] == 'endnotes' %}class='active'{% endif %}>Endnotes</a></li>
+                  <li><a href="acknowledgements"{% if current[1] == 'acknowledgements' %}class='active'{% endif %}>Acknowledgements</a></li>
+
+
+            </li>
+          </ul>
+        </nav>
+
+      <!-- Credits Section -->
+        <section>
+          <header class="home">
+            <h2>About</h2>
+          </header>
+          <a href="https://futureforlearning.org/" target="_blank"><img src="/assets/images/partnership-stack.png"/ width="150" height="170" style="display:block; margin-bottom:1em;"></a>
+            <p><a href="https://futureforlearning.org/" target="_blank">The Partnership for the Future of Learning</a> is a national network dedicated to an affirmative, equitable, evidence-based vision of a racially-just remodeled public education system. This playbook makes available research and tools to create a future of learning together, for all of us.</p>
+            <ul class="contact">
+              <li class="fa-envelope-o"><a href="mailto:{{site.email}}" target="_blank">{{ site.email }}</a></li>
+            </ul>
+
+          <!-- <div class="mini-posts">
+            <article>
+              <a href="https://futureforlearning.org/" class="image"><img src="assets/images/partner-logo_pfl.png" alt="" /></a>
+              <h4><a href="#">Partnership for the Future of Learning</a></h4>
+            </article>
+            <article>
+              <a href="http://publicleadershipinstitute.org/" class="image"><img src="assets/images/partner-logo_pli.png" alt="" /></a>
+              <h4><a href="#">Public Leadership Institute</a></h4>
+            </article>
+            <article>
+              <a href="https://learningpolicyinstitute.org/" class="image"><img src="assets/images/partner-logo_lpi.png" alt="" /></a>
+              <h4><a href="#">Learning Policy Institute</a></h4>
+            </article>
+            <article>
+              <a href="http://www.communityschools.org/" class="image"><img src="assets/images/partner-logo_cfcs.png" alt="" /></a>
+              <h4><a href="#">Coalition for Community Schools</a></h4>
+              <article>
+                <a href="https://nepc.colorado.edu/" class="image"><img src="assets/images/partner-logo_nepc.png" alt="" /></a>
+                <h4><a href="#">National Education Policy Center</a></h4>
+              </article>
+              <article>
+                <a href="https://www.researchforaction.org/" class="image"><img src="assets/images/partner-logo_rfa.png" alt="" /></a>
+                <h4><a href="#">Research for Action</a></h4>
+              </article>
+            </article>
+          </div> -->
+
+        </section>
+
+      <!-- Section
+        <section>
+
+                <!-- <p>The Community Schools Playbook was produced for the <a href="https://futureforlearning.org/">Partnership for the Future of Learning</a> by the <a href="http://publicleadershipinstitute.org/">Public Leadership Institute</a>. Research for the Playbook was conducted by the <a href="https://learningpolicyinstitute.org/">Learning Policy Institute</a>, with support from the <a href="http://www.communityschools.org/">Coalition for Community Schools<a>, the <a href="https://nepc.colorado.edu/">National Education Policy Center</a> and <a href="https://www.researchforaction.org/">Research for Action</a>.</p> -->
+
+            <!-- <li class="fa-phone">{{ site.phone }}</li>
+            <li class="fa-home">{{ site.street_address }}<br />
+            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+            {{ site.country }}</li>
+
+        </section> -->
+
+      <!-- Footer -->
+        <footer id="footer">
+          <p class="copyright">&copy; Partnership for the Future of Learning. All rights reserved. Full copyright and credits <a href="/colophon">here</a>.
+        </footer>
+
+    </div>
+  </div>
