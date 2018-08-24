@@ -3,7 +3,7 @@ layout: pillar
 title:  "Chapter 3"
 subtitle: "First Pillar: Integrated Student Supports"
 date:   2018-08-19 12:58:10 -0400
-categories: playbook chapters
+categories: section-two
 permalink: chapter-3
 image: assets/images/pillar-1-student.png
 download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf

@@ -35,7 +35,7 @@ layout: home
 		</header>
 	<div class="features">
 		<article>
-			<span class="icon fa-diamond"></span>
+			<span class="icon fa-child"></span>
 			<div class="content">
 				<h3>Integrated Student Supports</h3>
 				<p>A dedicated staff member coordinates support programs to address out-of-school learning barriers for students and families. Mental and physical health services support student success.</p>
@@ -43,7 +43,7 @@ layout: home
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-paper-plane"></span>
+			<span class="icon fa-lightbulb-o"></span>
 			<div class="content">
 			<h3>Expanded and Enriched Learning Time and Opportunities</h3>
 			<p>Enrichment activities emphasize real-world learning and community problem solving. After-school, weekend, and summer programs provide academic instruction and individualized support.</p>
@@ -51,7 +51,7 @@ layout: home
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-rocket"></span>
+			<span class="icon fa-users"></span>
 			<div class="content">
 				<h3>Active Family and Community Engagement</h3>
 				<p>Schools function as neighborhood hubs. There are educational opportunities for adults, and family members can share their stories and serve as equal partners in promoting student success.</p>
@@ -59,7 +59,7 @@ layout: home
 			</div>
 		</article>
 		<article>
-			<span class="icon fa-signal"></span>
+			<span class="icon fa-balance-scale"></span>
 			<div class="content">
 				<h3>Collaborative Leadership and Practices</h3>
 				<p>Parents, students, teachers, principals, and community partners build a culture of professional learning, collective trust, and shared responsibility through site-based leadership teams and teacher learning communities.</p>
@@ -104,26 +104,26 @@ layout: home
 			<div class="posts">
 		<article>
 			<a href="chapter-9" class="image"><img src="assets/images/screen-drawing-crop.jpg" alt="" /></a>
-			<h3>Community Schools in ESSA Plans</h3>
+			<h3>Community Schools in ESSA State Plans</h3>
 			<p>From Maryland to New Mexico, Ohio to Hawaii, see how states are activating community schools through ESSA.</p>
 			<ul class="actions">
-				<li><a href="#" class="button fit small">Explore the state plans</a></li>
+				<li><a href="essa" class="button fit small">Explore the state plans</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/posters-crop.jpg" alt="" /></a>
-			<h3>Implementation Resources</h3>
+			<h3>Implementation Resources&nbsp;</h3>
 			<p>A collection of guides, standards, strategies, and other tools for implementing Community Schools.</p>
 			<ul class="actions">
-				<li><a href="#" class="button fit small">Access the implementation resources</a></li>
+				<li><a href="implementation-resources" class="button fit small">Browse the resources</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/microphone-crop.jpg" alt="" /></a>
-			<h3>Videos &amp; Images</h3>
+			<h3>Videos &amp; Media to Share &nbsp;</h3>
 			<p>Use these videos, graphics, and memes to share the story of Community Schools with your network.</p>
 			<ul class="actions">
-				<li><a href="#" class="button fit small">See the media</a></li>
+				<li><a href="videos-media" class="button fit small">See the media</a></li>
 			</ul>
 		</article>		
 	</div>		

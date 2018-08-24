@@ -3,7 +3,7 @@ layout: pillar
 title:  "Chapter 6"
 subtitle: "Fourth Pillar: Collaborative Leadership Practices"
 date:   2018-08-23 09:49:10 -0400
-categories: playbook chapters
+categories: section-two
 permalink: chapter-6
 image:  assets/images/pillar-4-leadership.png
 download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf

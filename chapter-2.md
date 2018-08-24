@@ -3,7 +3,7 @@ layout: chapter
 title:  "Chapter 2"
 subtitle: "Policies that Advance Community Schools"
 date:   2018-08-19 20:09:10 -0400
-categories: playbook chapters
+categories: section-one
 permalink: chapter-2
 image: assets/images/STEAM-observation-crop.jpg
 download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf

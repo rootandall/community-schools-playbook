@@ -3,7 +3,7 @@ layout: chapter
 title:  "Chapter 1"
 subtitle: "An Introduction to Community Schools"
 date:   2018-08-06 06:43:10 -0400
-categories: playbook chapters
+categories: section-one
 permalink: chapter-1
 image: assets/images/crowd-crop.jpg
 download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf

@@ -3,7 +3,7 @@ layout: pillar
 title:  "Chapter 4"
 subtitle: "Second Pillar: Expanded and Enriched Learning Time and Opportunities"
 date:   2018-08-22 12:59:10 -0400
-categories: playbook chapters
+categories: section-two
 permalink: chapter-4
 image: assets/images/pillar-2-learning.png
 download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf

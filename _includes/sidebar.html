@@ -34,28 +34,28 @@
               <header class="menu">
                 <h4>Section One:<br /> The Fundamentals</h4>
               </header>
-                <li><a href="chapter-1"{% if current[1] == 'chapter-1' %}class='active'{% endif %}><strong>Chapter 1 |</strong> An Introduction to Community Schools</a></li>
-                <li><a href="chapter-2"{% if current[1] == 'chapter-2' %}class='active'{% endif %}><strong>Chapter 2 |</strong> Policies that Advance Community Schools</a></li>
+                <li><a href=" {{ 'chapter-1' | relative_url }}" {% if current[1] == 'chapter-1' %}class='active'{% endif %}><strong>Chapter 1 |</strong> An Introduction to Community Schools</a></li>
+                <li><a href=" {{ 'chapter-2' | relative_url }}" {% if current[1] == 'chapter-2' %}class='active'{% endif %}><strong>Chapter 2 |</strong> Policies that Advance Community Schools</a></li>
 
 
               <header class="menu">
                 <h4>Section Two:<br /> The Four Pillars</h4>
               </header>
-                <li><a href="chapter-3"{% if current[1] == 'chapter-3' %}class='active'{% endif %}><strong>Chapter 3 |</strong> First Pillar: Integrated Student Supports</a></li>
-                <li><a href="chapter-4"{% if current[1] == 'chapter-4' %}class='active'{% endif %}><strong>Chapter 4 |</strong> Second Pillar: Expanded and Enriched Learning Time and Opportunities</a></li>
-                <li><a href="chapter-5"{% if current[1] == 'chapter-5' %}class='active'{% endif %}><strong>Chapter 5 |</strong> Third Pillar: Family and Community Engagement</a></li>
-                <li><a href="chapter-6"{% if current[1] == 'chapter-6' %}class='active'{% endif %}><strong>Chapter 6 |</strong> Fourth Pillar: Collaborative Leadership and Practices</a></li>
+                <li><a href=" {{ 'chapter-3' | relative_url }}" {% if current[1] == 'chapter-3' %}class='active'{% endif %}><strong>Chapter 3 |</strong> First Pillar: Integrated Student Supports</a></li>
+                <li><a href=" {{ 'chapter-4' | relative_url }}" {% if current[1] == 'chapter-4' %}class='active'{% endif %}><strong>Chapter 4 |</strong> Second Pillar: Expanded and Enriched Learning Time and Opportunities</a></li>
+                <li><a href=" {{ 'chapter-5' | relative_url }}" {% if current[1] == 'chapter-5' %}class='active'{% endif %}><strong>Chapter 5 |</strong> Third Pillar: Family and Community Engagement</a></li>
+                <li><a href=" {{ 'chapter-6' | relative_url }}" {% if current[1] == 'chapter-6' %}class='active'{% endif %}><strong>Chapter 6 |</strong> Fourth Pillar: Collaborative Leadership and Practices</a></li>
 
 
               <header class="menu">
                 <h4>Section Three:<br /> Resources You Can Use</h4>
               </header>
-                <li><a href="chapter-7"{% if current[1] == 'chapter-7' %}class='active'{% endif %}><strong>Chapter 7 |</strong> Messaging: How to Effectively Communicate for Community Schools</a></li>
+                <li><a href="chapter-7" {% if current[1] == 'chapter-7' %}class='active'{% endif %}><strong>Chapter 7 |</strong> Messaging: How to Effectively Communicate for Community Schools</a></li>
                 <li{% if current[1] == 'model-leg_state' %} class='active'{% endif %}{% if current[1] == 'model-leg_school' %} class='active'{% endif %}{% if current[1] == 'model-leg_local' %} class='active'{% endif %}><span class="opener"><strong>Chapter 8 |</strong> Model Legislation</span>
                   <ul>
-                    <li><a href="model-leg_state">Model State Community Schools Act</a></li>
-                    <li><a href="model-leg_school">Model School Board Resolution</a></li>
-                    <li><a href="model-leg_local">Model City or County Resolution in support of community schools</a></li>
+                    <li><a href=" {{ 'model-leg_state' | relative_url }}">Model State Community Schools Act</a></li>
+                    <li><a href=" {{ 'model-leg_school' | relative_url }}">Model School Board Resolution</a></li>
+                    <li><a href=" {{ 'model-leg_local' | relative_url }}">Model City or County Resolution in support of community schools</a></li>
                   </ul>
                 </li>
 
@@ -64,9 +64,9 @@
                 <h4>Appendix</h4>
               </header>
 
-                  <li><a href="essa"{% if current[1] == 'essa' %}class='active'{% endif %}>Community Schools in ESSA State Plans</a></li>
-                  <li><a href="implementation-resources"{% if current[1] == 'implementation-resources' %}class='active'{% endif %}>Implementation Resources</a></li>
-                  <li><a href="videos-images"{% if current[1] == 'videos-images' %}class='active'{% endif %}>Videos &amp; Images</a></li>
+                  <li><a href=" {{ 'essa' | relative_url }}" {% if current[1] == 'essa' %}class='active'{% endif %}>Community Schools in ESSA State Plans</a></li>
+                  <li><a href=" {{ 'implementation-resources' | relative_url }}" {% if current[1] == 'implementation-resources' %}class='active'{% endif %}>Implementation Resources</a></li>
+                  <li><a href=" {{ 'videos-media' | relative_url }}" {% if current[1] == 'videos-media' %}class='active'{% endif %}>Videos &amp; Media</a></li>
 
 
 
@@ -74,8 +74,8 @@
                 <h4>Credits</h4>
               </header>
 
-                  <li><a href="endnotes"{% if current[1] == 'endnotes' %}class='active'{% endif %}>Endnotes</a></li>
-                  <li><a href="acknowledgements"{% if current[1] == 'acknowledgements' %}class='active'{% endif %}>Acknowledgements</a></li>
+                  <li><a href=" {{ 'endnotes' | relative_url }}" {% if current[1] == 'endnotes' %}class='active'{% endif %}>Endnotes</a></li>
+                  <li><a href=" {{ 'acknowledgements' | relative_url }}" {% if current[1] == 'acknowledgements' %}class='active'{% endif %}>Acknowledgements</a></li>
 
 
             </li>
@@ -136,7 +136,7 @@
 
       <!-- Footer -->
         <footer id="footer">
-          <p class="copyright">&copy; Partnership for the Future of Learning. All rights reserved. Full copyright and credits <a href="/colophon">here</a>.
+          <p class="copyright">&copy; Partnership for the Future of Learning. All rights reserved. Full copyright and credits <a href=" {{ 'colophon' | relative_url }}">here</a>.
         </footer>
 
     </div>

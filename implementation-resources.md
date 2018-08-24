@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Implementation Resources
-date:   2018-08-22 10:05:10 -0400
+layout: chapter
+title:  "Appendix"
+subtitle: "Implementation Resources"
+date:   2018-08-23 22:42:10 -0400
 categories: appendix
 permalink: implementation-resources
+image: assets/images/posters-crop.jpg
 ---
