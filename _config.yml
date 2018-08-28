@@ -24,7 +24,6 @@ github_username:  #
 twitter:
   card: summary
 logo: https://rootandall.github.io/community-schools-playbook/assets/images/partnership-stack.png
-image: https://rootandall.github.io/community-schools-playbook/assets/images/partnership-stack.png
 
 # Build settings
 markdown: kramdown
