@@ -83,7 +83,7 @@ The Community Schools Playbook was produced for the [Partnership for the Future 
 
 Copyright © 2018 by the Partnership for the Future of Learning
 
-All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, contact the publisher at the address below.
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
 *Learning Policy Institute*
 1530 Page Mill Road, Suite 200, Palo Alto, CA 94304
