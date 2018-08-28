@@ -1,0 +1,47 @@
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.1/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.1"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.1/dist/instantsearch-theme-algolia.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.1/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.1/dist/instantsearch-theme-algolia.min.css">
+
+<div id="search-box">
+  <!-- SearchBox widget will appear here -->
+</div>
+
+<div id="hits-container">
+  <!-- Hits widget will appear here -->
+</div>
+
+<script>
+const search = instantsearch({
+  appId: '{{ site.algolia.application_id }}',
+  apiKey: '{{ site.algolia.search_only_api_key }}',
+  indexName: '{{ site.algolia.index_name }}'
+});
+
+
+// initialize SearchBox and HitsWidget
+ search.addWidget(
+   instantsearch.widgets.searchBox({
+     container: '#search-box',
+     placeholder: 'Search for products'
+   })
+ );
+
+ search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#hits-container',
+    templates: {
+      empty: 'No results',
+      item: '<strong>Hit {{objectID}}</strong>: {{{_highlightResult.name.value}}}'
+    },
+    escapeHits: true,
+    transformItems: items => items.map(item => item),
+  })
+);
+
+//starting the search
+search.start();
+
+</script>
