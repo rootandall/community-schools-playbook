@@ -1,4 +1,5 @@
 <meta content="{{ site.title }}" property="og:site_name">
+<meta content="http://communityschools.futureforlearning.org/" property="og:url">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
@@ -14,9 +15,9 @@
 {% else %}
   <meta content="{{ site.description }}" property="og:description">
 {% endif %}
-{% if page.url %}
+<!-- {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-{% endif %}
+{% endif %} -->
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   <meta content="{{ site.url }}/about/" property="article:author">
