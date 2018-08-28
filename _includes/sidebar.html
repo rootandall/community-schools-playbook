@@ -32,14 +32,14 @@
             </li>-->
 
               <header class="menu">
-                <h4>Section One:<br /> The Fundamentals</h4>
+                <h4><a href="/community-schools-playbook/#section-one">Section One:<br /> The Fundamentals</a></h4>
               </header>
                 <li><a href=" {{ 'chapter-1' | relative_url }}" {% if current[1] == 'chapter-1' %}class='active'{% endif %}><strong>Chapter 1 |</strong> An Introduction to Community Schools</a></li>
                 <li><a href=" {{ 'chapter-2' | relative_url }}" {% if current[1] == 'chapter-2' %}class='active'{% endif %}><strong>Chapter 2 |</strong> Policies that Advance Community Schools</a></li>
 
 
               <header class="menu">
-                <h4>Section Two:<br /> The Four Pillars</h4>
+                <h4><a href="/community-schools-playbook/#section-two">Section Two:<br /> The Four Pillars</a></h4>
               </header>
                 <li><a href=" {{ 'chapter-3' | relative_url }}" {% if current[1] == 'chapter-3' %}class='active'{% endif %}><strong>Chapter 3 |</strong> First Pillar: Integrated Student Supports</a></li>
                 <li><a href=" {{ 'chapter-4' | relative_url }}" {% if current[1] == 'chapter-4' %}class='active'{% endif %}><strong>Chapter 4 |</strong> Second Pillar: Expanded and Enriched Learning Time and Opportunities</a></li>
@@ -48,35 +48,75 @@
 
 
               <header class="menu">
-                <h4>Section Three:<br /> Resources You Can Use</h4>
+                <h4><a href="/community-schools-playbook/#section-three">Section Three:<br /> Resources You Can Use</a></h4>
               </header>
-                <li><a href="chapter-7" {% if current[1] == 'chapter-7' %}class='active'{% endif %}><strong>Chapter 7 |</strong> Messaging: How to Effectively Communicate for Community Schools</a></li>
+                <li {% if current[1] == 'chapter-7' %}class='active'{% endif %}><span class="opener"><strong>Chapter 7 |</strong> Messaging</span>
+                  <ul>
+                    <li><a href=" {{ 'chapter-7' | relative_url }} ">How to Effectively Communicate for Community Schools</a></li>
+                    <li><a href=" {{ 'chapter-7#talking-points' | relative_url }} ">Talking Points</a></li>
+                    <li><a href=" {{ 'chapter-7#useful-facts-and-statistics' | relative_url }} ">Facts & Statistics</a></li>
+                    <li><a href=" {{ 'chapter-7#answering-tough-questions' | relative_url }} ">Answering Tough Questions</a></li>
+                  </ul>
+                </li>
                 <li{% if current[1] == 'model-leg_state' %} class='active'{% endif %}{% if current[1] == 'model-leg_school' %} class='active'{% endif %}{% if current[1] == 'model-leg_local' %} class='active'{% endif %}><span class="opener"><strong>Chapter 8 |</strong> Model Legislation</span>
                   <ul>
                     <li><a href=" {{ 'model-leg_state' | relative_url }}">Model State Community Schools Act</a></li>
                     <li><a href=" {{ 'model-leg_school' | relative_url }}">Model School Board Resolution</a></li>
                     <li><a href=" {{ 'model-leg_local' | relative_url }}">Model City or County Resolution in support of community schools</a></li>
                   </ul>
+                <li><a href=" {{ 'essa' | relative_url }}" {% if current[1] == 'essa' %}class='active'{% endif %}>Community Schools in ESSA State Plans</a></li>
+                <li><a href=" {{ 'implementation-resources' | relative_url }}" {% if current[1] == 'implementation-resources' %}class='active'{% endif %}>Implementation Resources</a></li>
                 </li>
 
+                <header class="menu">
+                  <h4>Quick Links</h4>
+                </header>
+                <li><span class="opener">Policy Principles</span>
+                    <ul>
+                      <li><a href=" {{ 'chapter-2#key-policy-principles' | relative_url }} ">Comprehensive Community Schools</a></li>
+                      <li><a href=" {{ 'chapter-3#policy-principles' | relative_url }} ">Integrated Student Supports</a></li>
+                      <li><a href=" {{ 'chapter-4#policy-principles' | relative_url }} ">Expanded and Enriched Learning Time and Opportunities</a></li>
+                      <li><a href=" {{ 'chapter-5#policy-principles' | relative_url }} ">Active Family and Community Engagement</a></li>
+                      <li><a href=" {{ 'chapter-6#policy-principles' | relative_url }} ">Collaborative Leadership and Practices</a></li>
+                    </ul>
+                  </li>
+                  <li><span class="opener">Policy Types &amp; Examples</span>
+                    <ul>
+                      <li><a href=" {{ 'chapter-2#exemplary-state-policies' | relative_url }} ">Comprehensive Community Schools</a></li>
+                      <li><a href=" {{ 'chapter-3#policy-types-and-examples' | relative_url }} ">Integrated Student Supports</a></li>
+                      <li><a href=" {{ 'chapter-4#policy-types-and-examples' | relative_url }} ">Expanded and Enriched Learning Time and Opportunities</a></li>
+                      <li><a href=" {{ 'chapter-5#policy-types-and-examples' | relative_url }} ">Active Family and Community Engagement</a></li>
+                      <li><a href=" {{ 'chapter-6#policy-types-and-examples' | relative_url }} ">Collaborative Leadership and Practices</a></li>
+                    </ul>
+                  </li>
+                  <li><span class="opener">Funding</span>
+                    <ul>
+                      <li><a href=" {{ 'chapter-2#federal-opportunities-through-essa' | relative_url }} ">Federal Opportunities through ESSA</a></li>
+                      <li><a href=" {{ 'chapter-2#grant-programs-to-develop-and-support-planning-of-local-community-schools' | relative_url }} ">Comprehensive State Grants</a></li>
+                      <li><a href=" {{ 'chapter-2#state-budget-support-for-community-schools' | relative_url }} ">Comprehensive State Budget Support</a></li>
+                      <li><a href=" {{ 'chapter-2#mayoral-initiatives' | relative_url }} ">Comprehensive Mayoral Initiatives</a></li>
+                      <li><a href=" {{ 'chapter-3#state-funding-for-integrated-student-supports-and-resources' | relative_url }} ">State Funding for Integrated Student Supports</a></li>
+                      <li><a href=" {{ 'chapter-4#state-funding-and-guidance-for-out-of-school-time-learning-partnerships' | relative_url }} ">State Funding for Out-of-School Time Partnerships</a></li>
+                      <li><a href=" {{ 'chapter-4#state-funding-for-longer-school-days-and-years' | relative_url }} ">State Funding for Longer School Days and Year</a></li>
+                      <li><a href=" {{ 'chapter-6#state-funding-and-guidance' | relative_url }} ">State Funding for Collaborative Leadership and Practices</a></li>
+                    </ul>
+                  </li>
 
               <header class="menu">
-                <h4>Appendix</h4>
+                <h4><a href=" {{ 'videos-media' | relative_url }} ">Media</a></h4>
               </header>
-
-                  <li><a href=" {{ 'essa' | relative_url }}" {% if current[1] == 'essa' %}class='active'{% endif %}>Community Schools in ESSA State Plans</a></li>
-                  <li><a href=" {{ 'implementation-resources' | relative_url }}" {% if current[1] == 'implementation-resources' %}class='active'{% endif %}>Implementation Resources</a></li>
-                  <li><a href=" {{ 'videos-media' | relative_url }}" {% if current[1] == 'videos-media' %}class='active'{% endif %}>Videos &amp; Media</a></li>
+                  <li><a href=" {{ 'videos-media#videos' | relative_url }}">Videos</a></li>
+                  <li><a href=" {{ 'videos-media#infographics' | relative_url }}">Infographics</a></li>
 
 
 
               <header class="menu">
-                <h4>Credits</h4>
+                <h4>Acknowledgements</h4>
               </header>
 
                   <li><a href=" {{ 'endnotes' | relative_url }}" {% if current[1] == 'endnotes' %}class='active'{% endif %}>Endnotes</a></li>
                   <li><a href=" {{ 'acknowledgements' | relative_url }}" {% if current[1] == 'acknowledgements' %}class='active'{% endif %}>Acknowledgements</a></li>
-
+                  <li><a href=" {{ 'colophon' | relative_url }}" {% if current[1] == 'colophon' %}class='active'{% endif %}>Colophon</a></li>
 
             </li>
           </ul>
@@ -89,6 +129,10 @@
           </header>
           <a href="https://futureforlearning.org/" target="_blank"><img src=" {{ '/assets/images/partnership-stack.png' | relative_url }}" width="150" height="170" style="display:block; margin-bottom:1em;"></a>
             <p><a href="https://futureforlearning.org/" target="_blank">The Partnership for the Future of Learning</a> is a national network dedicated to an affirmative, equitable, evidence-based vision of a racially-just remodeled public education system. This playbook makes available research and tools to create a future of learning together, for all of us.</p>
+            <header class="home">
+              <h2>Contact Us</h2>
+            </header>
+            <p>Questions? Insights? Stories to share? We invite you to contact us to join the conversation on Community Schools.</p>
             <ul class="contact">
               <li class="fa-envelope-o"><a href="mailto:{{site.email}}" target="_blank">{{ site.email }}</a></li>
             </ul>

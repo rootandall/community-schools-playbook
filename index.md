@@ -7,7 +7,7 @@ layout: home
 <!-- Section One -->
 
 <header class="major">
-	<h2>Section One: The Fundamentals of Community Schools</h2>
+	<h2 id="section-one">Section One: The Fundamentals of Community Schools</h2>
 </header>
 <div class="posts">
 	<two-up>
@@ -19,7 +19,7 @@ layout: home
 		</ul>
 	</two-up>
 	<two-up>
-		<a href="chapter-2" class="image"><img src="assets/images/STEAM-observation-crop.jpg" alt="" /></a>
+		<a href="chapter-2" class="image"><img src="assets/images/one-hood-crop.jpg" alt="" /></a>
 		<h3>Policies that Advance Community Schools</h3>
 		<p>Understand the policy mechanisms and principles that underpin Community Schools and see how they are being implemented in states.</p>
 		<ul class="actions">
@@ -31,7 +31,7 @@ layout: home
 <!-- Section Two -->
 
 	<header class="major">
-		<h2>Section Two: Four Pillars of Community Schools</h2>
+		<h2 id="section-two">Section Two: Four Pillars of Community Schools</h2>
 		</header>
 	<div class="features">
 		<article>
@@ -73,59 +73,76 @@ layout: home
 <!-- Section Three -->
 
 	<header class="major">
-		<h2>Section Three: Resources You Can Use</h2>
+		<h2 id="section-three">Section Three: Resources You Can Use</h2>
 	</header>
 	<div class="posts">
-		<two-up>
-			<a href="chapter-7" class="image"><img src="assets/images/adults-group-crop.jpg" alt="" /></a>
+			<two-up>
+			<a href="chapter-7" class="image"><img src="assets/images/recording-roundtable-crop.jpg" alt="" /></a>
 			<h3>Messaging</h3>
 			<p>Use this practical guidance, opinion research, and message points to be an effective communicator for community schools.</p>
 			<ul class="actions">
-				<li><a href="chapter-7" class="button fit small">Jump to Chapter 7 to learn more</a></li>
+				<li><a href="chapter-7#talking-points" class="button fit small">Talking Points</a></li>
+				<li><a href="chapter-7#useful-facts-and-statistics" class="button fit small">Facts & Statistics</a></li>
+				</ul>
+			<ul class="actions">
+				<li><a href="chapter-7#answering-tough-questions" class="button fit small">Answering Tough Questions</a></li>
 			</ul>
 		</two-up>
 		<two-up>
-			<a href="chapter-8" class="image"><img src="assets/images/pen-notes-crop.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pen-notes-crop.jpg" alt="" /></a>
 			<h3>Model Legislation</h3>
 			<p>Use these sample bills and resolutions to enact community schools policies at state, city, county, and school board levels.</p>
 			<ul class="actions">
 				<li><a href="model-leg_state" class="button fit small">State Bill</a></li>
 				<li><a href="model-leg_school" class="button fit small">School Board</a></li>
+				</ul>
+			<ul class="actions">
 				<li><a href="model-leg_local" class="button fit small">City or County Resolution</a></li>
 			</ul>
 		</two-up>
 		</div>
+		<hr>
+		<div class="posts">
+			<two-up>
+				<a href="essa" class="image"><img src="assets/images/screen-drawing-crop.jpg" alt="" /></a>
+				<h3>Community Schools in ESSA State Plans</h3>
+				<p>From Maryland to New Mexico, Ohio to Hawaii, see how states are activating community schools through ESSA.</p>
+				<ul class="actions">
+					<li><a href="essa" class="button fit small">Explore the state plans</a></li>
+				</ul>
+			</two-up>
+			<two-up>
+				<a href="implementation-resources" class="image"><img src="assets/images/posters-crop.jpg" alt="" /></a>
+				<h3>Implementation Resources</h3>
+				<p>A collection of guides, standards, strategies, and other tools for implementing Community Schools.</p>
+				<ul class="actions">
+					<li><a href="implementation-resources" class="button fit small">Browse the resources</a></li>
+				</ul>
+			</two-up>
+			</div>
 
 <!-- Appendix -->
 
-<header class="major">
-				<h2>Appendix &amp; References</h2>
+	<header class="major">
+				<h2 id="media">Media</h2>
 			</header>
 			<div class="posts">
-		<article>
-			<a href="chapter-9" class="image"><img src="assets/images/screen-drawing-crop.jpg" alt="" /></a>
-			<h3>Community Schools in ESSA State Plans</h3>
-			<p>From Maryland to New Mexico, Ohio to Hawaii, see how states are activating community schools through ESSA.</p>
-			<ul class="actions">
-				<li><a href="essa" class="button fit small">Explore the state plans</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/posters-crop.jpg" alt="" /></a>
-			<h3>Implementation Resources&nbsp;</h3>
-			<p>A collection of guides, standards, strategies, and other tools for implementing Community Schools.</p>
-			<ul class="actions">
-				<li><a href="implementation-resources" class="button fit small">Browse the resources</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/microphone-crop.jpg" alt="" /></a>
-			<h3>Videos &amp; Media to Share &nbsp;</h3>
+				<article>
+			<a href="videos-media#videos" class="image"><img src="assets/images/microphone-crop.jpg" alt="" /></a>
+			<h3>Videos </h3>
 			<p>Use these videos, graphics, and memes to share the story of Community Schools with your network.</p>
 			<ul class="actions">
-				<li><a href="videos-media" class="button fit small">See the media</a></li>
+				<li><a href="videos-media#videos" class="button fit small">Watch the Videos</a></li>
 			</ul>
-		</article>		
-	</div>		
+		</article>
+					<article>
+				<a href="videos-media#infographics" class="image"><img src="assets/images/infographic-banner.png" alt="" /></a>
+				<h3>Infographics</h3>
+				<p>Use these videos, graphics, and memes to share the story of Community Schools with your network.</p>
+				<ul class="actions">
+					<li><a href="videos-media#infographics" class="button fit small">Download the Infographics</a></li>
+				</ul>
+			</article>
+		</div>
 
 </section>

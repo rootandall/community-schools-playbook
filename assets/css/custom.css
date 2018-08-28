@@ -24,10 +24,15 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: inherit;
   text-decoration: none;
   border-bottom: 0;
+	padding: 0 0 0 0;
 }
 
 #menu ul a, #menu ul span {
 	padding: 0.625em 0 0.625em 1em;
+}
+
+#menu h4 a, #menu h4 span {
+	padding: 0 0 0 0;
 }
 
 #menu a.active,
@@ -41,6 +46,43 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 	color:#0d78b5;
 	padding-bottom:.6em;
 	padding-right: .8em;
+}
+
+/***********************************************************************
+                                    *** SIDEBAR & BODY SCROLL SEPARARELY ***
+***********************************************************************/
+@media only screen and (min-width: 1280px)  {
+			body {
+			    overflow-x: hidden;
+			}
+
+			#wrapper {
+
+			    display: flex;
+			    overflow: hidden;
+					overflow-x: hidden;
+			    height: 100vh;
+			    position: relative;
+			    width: 100%;
+			    backface-visibility: hidden;
+			    will-change: overflow;
+			}
+
+			#sidebar,
+			#main {
+			    overflow: auto;
+					overflow-x: hidden;
+			    height: auto;
+			    padding: .5rem;
+			    -webkit-overflow-scrolling: touch;
+			    -ms-overflow-style: none;
+			}
+
+			#sidebar::-webkit-scrollbar,
+			#main ::-webkit-scrollbar {
+			    display: none;
+			}
+
 }
 
 /***********************************************************************
@@ -747,6 +789,17 @@ button.primary,
 	color: #ffffff !important;
 }
 
+.button {
+	text-align:center!important;
+  align-items: center;
+  justify-content: center;
+}
+
+ul.actions {
+	display: flex;
+	justify-content: center;
+}
+
 #header {
 	border-bottom: solid 5px #0d78b5;
 }
@@ -1017,4 +1070,57 @@ img.image.pillar {
 
 img.image.chapter {
 	margin-top:2em;
+}
+
+@media only screen and (max-width: 1200px)  {
+			img.image.chapter {
+				display: none;
+			}
+
+			.\34 u, .\34 u\24 { width: 80%;}
+}
+
+/***********************************************************************
+								*** IMPLEMENTATION RESOURCES TABLE LINKS ***
+***********************************************************************/
+
+table a{
+	border-bottom: none;
+}
+
+/***********************************************************************
+								*** VIDEO & MEDIA PAGE ***
+***********************************************************************/
+
+.videos-container {
+  overflow:hidden;
+	margin-bottom: 3em;
+}
+
+.videos-container div {
+   min-height: 200px;
+   padding: 10px;
+	 text-align:center;
+}
+.video-left {
+  float:left;
+  width:50%;
+	padding: 3em;
+}
+.video-right {
+  overflow:hidden;
+	padding: 3em;
+}
+
+@media screen and (max-width: 950px) {
+   .video-left {
+    float: none;
+    margin-right:0;
+    width:auto;
+    border:0;
+  }
+}
+
+.download-image {
+	border-bottom:none;
 }

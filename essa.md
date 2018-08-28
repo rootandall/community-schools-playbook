@@ -42,7 +42,6 @@ The plan also explains that the Illinois State Board of Education “acknowledge
 ###### Date approved by DOE: 1/16/2018
 
 In describing the technical assistance the state will provide to each LEA serving a significant number or percentage of schools identified for comprehensive or targeted support and improvement, Maryland’s ESSA Plan explains the Four Domains for Rapid School Improvement: A Systems Framework (2017) developed by the Center for School Turnaround at WestEd. The plan states that “[t]his framework embraces and expands the concept of community schools by identifying actions at the State, local school system, and school level for community involvement in school improvement.” Pg. 39
-(Not community-school related)
 
 | **Framework:** The Center on School Turnaround. (2017). [Four Domains for Rapid School Improvement: A Systems Framework](https://centeronschoolturnaround.org/wp-content/uploads/2018/03/CST_Four-Domains-Framework-Final.pdf) (The Center for School Turnaround at WestEd), San Francisco, CA: WestEd. |
 
@@ -66,7 +65,7 @@ ___
 
 ###### Date approved by DOE: 1/10/2018
 
-Minnesota’s ESSA Plan lists “Full Service Community Schools” under “Other State Strategies to Improve Low-Performing Schools.” The Plan explains that Full Service Community Schools is a state grant program “established in 2015 that provides funding to eligible schools to plan, implement and improve full-service community schools. The program prioritizes schools identified for improvement.”
+Minnesota’s ESSA Plan lists “Full Services Community Schools Grants” under “Other State Strategies to Improve Low-Performing Schools.” The Plan explains that Full Service Community Schools is a state grant program “established in 2015 that provides funding to eligible schools to plan, implement and improve full-service community schools. The program prioritizes schools identified for improvement.”
 
 The plan further explains that “[a]dditional funds were allocated in 2016 for expansion of the program. The current funding has provided grants to 13 schools—four in round one and nine additional schools in round two. Full service community school grant funds allow schools to partner with community agencies to provide on-site health and dental clinics, mental health services, family resource centers, college access information, out-of-school program information, and other family support services as outlined in Minnesota Statutes, section 124D.231.” Pg. 22.
 
@@ -79,7 +78,7 @@ ___
 ### [New Mexico](https://webnew.ped.state.nm.us/wp-content/uploads/2018/02/FINAL-APPROVED-NM-State-ESSA-Plan.pdf)
 ###### Date approved by DOE: 9/8/2017
 
-New Mexico’s ESSA Plan explains that the state’s Public Education Department “will support community school models including community-based health centers in schools with the highest need. PED will continue to provide technical assistance to LEAs on how to leverage funds to provide services for students and families including families experiencing homelessness, migrant families and students in foster care. Additional social workers are provided to schools with high poverty rates to assist students and families and opportunities to provide truancy coaches are also available for schools.” Pg. 120–121.
+New Mexico’s ESSA Plan explains that the state’s Public Education Department “will support community school models including community-based health centers in schools with the highest need. PED will continue to provide technical assistance to LEAs on how to leverage funds to provide services for students and families including families experiencing homelessness, migrant families and students in foster care. Additional social workers are provided to schools with high poverty rates to assist students and families and opportunities to provide truancy coaches are also available for schools.” Pg. 141.
 
 ___
 
@@ -91,7 +90,7 @@ ___
 ###### Date approved by DOE: 1/16/2018
 
 Community Schools are listed as an intervention for low-performing schools under a section about New York State Receivership Law. The plan explains that, under the receivership law,
-“a school receiver has the authority to … convert schools to community schools providing wraparound services.” Pg. 102.
+“a school receiver has the authority to … convert schools to community schools providing wraparound services.” Pg. 103.
 
 | **Study:** Sebastian Castrechini and Rebecca A. London, [Positive Student Outcomes in Community Schools](https://www.americanprogress.org/wp-content/uploads/issues/2012/02/pdf/positive_student_outcomes.pdf), (Center for American Progress and John W. Gardner Center for Youth and Their Communities, February 2012). |
 
@@ -106,7 +105,7 @@ ___
 
 In Ohio, Community Schools are referred to as “community learning centers,” which is a type of “Student Support School” authorized under Ohio law. Ohio’s ESSA Plan explains that “Any district school or community (charter) school is eligible to implement the community learning center model to become a Student Support School. Each school can identify the services it wants to provide based on student or community needs, such as school-based health centers, extended educational opportunities, early childhood development, parent resources, and college and career planning.” Pg. 66.
 
-Ohio’s ESSA Plan also lists community learning centers as part of its Ohio Improvement Process, which is a “framework to establish systemic collaborative structures within schools and districts designed to support development and implementation of a strategic improvement plan and focused goals.” Also, the ESSA Plan explains that “[t]o assist schools and districts in educating the whole child, especially Ohio’s most vulnerable students, the Department will develop and share information regarding implementation of community learning center models.” Pg. 53.
+Ohio’s ESSA Plan also lists community learning centers as part of its Ohio Improvement Process, which is a “framework to establish systemic collaborative structures within schools and districts designed to support development and implementation of a strategic improvement plan and focused goals.” Also, the ESSA Plan explains that “[t]o assist schools and districts in educating the whole child, especially Ohio’s most vulnerable students, the Department will develop and share information regarding implementation of community learning center models.” Pg. 52.
 
 ___
 
@@ -133,7 +132,7 @@ ___
 ### [Tennessee](https://www.tn.gov/content/dam/tn/education/documents/TN_ESSA_State_Plan_Approved.pdf)
 ###### Date approved by DOE: 8/30/2017
 
-Tennessee’s ESSA Plan lists the community school model as a strategy for parent and community engagement, though one that the state appears to be still exploring rather than currently implementing. The plan explains that the Tennessee Department of Education “will explore the scope and cost of partnering with an external entity or develop its own model for the development and expansion of community schools across the state, particularly in Priority schools who often have a greater need for additional student support and wraparound services.” The implementation timeline is “to be determined,” and the funding source is listed as “Title I (including Consolidated Administration and school improvement funds) and State dollars if expanded to Focus schools.” Pg. 161
+Tennessee’s ESSA Plan lists the community school model as a strategy for parent and community engagement, though one that the state appears to be still exploring rather than currently implementing. The plan explains that the Tennessee Department of Education “will explore the scope and cost of partnering with an external entity or develop its own model for the development and expansion of community schools across the state, particularly in Priority schools who often have a greater need for additional student support and wraparound services.” The implementation timeline is “to be determined,” and the funding source is listed as “Title I (including Consolidated Administration and school improvement funds) and State dollars if expanded to Focus schools.” Pg. 174
 
 ___
 
@@ -141,10 +140,10 @@ ___
 &nbsp;
 </div>
 
-### [West Virginia](https://wvde.state.wv.us/essa/WV_consolidatedStateplan_revision-1.pdf)
+### [West Virginia](https://wvde.us/wp-content/uploads/2018/01/WV_consolidatedStateplan_revision-1.pdf)
 ###### Date approved by DOE: 1/10/2018
 
-West Virginia’s ESSA Plan lists community schools as an example of a “recommended universal intervention” that the West Virginia Department of Education supports as a way of improving school conditions for student learning. Specifically, the plan states that “[t]he WVDE will continue to promote the Community Schools Framework (encompassing Communities in Schools) in any public school that serves PreK-12 students and participates in a community-based effort to coordinate and integrate services through partnerships with community-based organizations. The Community Schools Framework is both a service location and a set of partnerships between the school and other community resources. The integrated framework focus[es] on academics, health and social services, youth and community development and community engagement leading to improved student learning, stronger families and healthier communities.”
+West Virginia’s ESSA Plan lists community schools as an example of a “recommended universal intervention” that the West Virginia Department of Education supports as a way of improving school conditions for student learning. Specifically, the plan states that “[t]he WVDE will continue to promote the Community Schools Framework (encompassing Communities in Schools) in any public school that serves PreK-12 students and participates in a community-based effort to coordinate and integrate services through partnerships with community-based organizations. The Community Schools Framework is both a service location and a set of partnerships between the school and other community resources. The integrated framework focus[es] on academics, health and social services, youth and community development and community engagement leading to improved student learning, stronger families and healthier communities.” Pg. 52
 
 ___
 

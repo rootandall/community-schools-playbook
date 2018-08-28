@@ -57,7 +57,7 @@ Choose from among the following talking points to support your outreach and comm
 
 *	Because each community is unique, people seeking to implement a community schools strategy start by conducting a local assessment of needs and assets with staff, families, students, and community members. They then tailor the combination of programs and services to the needs, strengths, and priorities of their school and community. This collaborative approach builds support and sustainability for community schools and creates rich local opportunities for learning that draw on the strengths and knowledge of the surrounding communities.
 
-*	Community schools are efficient and cost-effective. They coordinate the delivery of services to avoid duplication and maximize student supports. Studies find that every $1 invested in a community schools strategy results in up to a $15 return to the community.
+*	Community schools are efficient and cost-effective. They coordinate the delivery of services to avoid duplication and maximize student supports. [Studies find](https://learningpolicyinstitute.org/product/community-schools-effective-school-improvement-report) that every $1 invested in a community schools strategy results in up to a $15 return to the community.
 
 *	Community schools provide students and families in low-income communities with the mix of services, supports, and opportunities that are already available to middle-class and affluent communities.
 
@@ -103,7 +103,7 @@ Use these messages to reinforce the role of each of the four pillars in creating
 
 *	A shared commitment to collaborative leadership and practices creates opportunities for deeper, more trusting relationships between families and school staff and between teachers and administrators. These relationships strengthen the school’s ability to work with family and community members to create meaningful learning opportunities for students by bringing the local knowledge of the community into the school. These relationships also can help make sure that the supports and services address local needs. Deeper collaboration supports improved implementation of the entire strategy.
 
-*	Opportunities for collaboration and professional learning are key to supporting and retaining teachers. These and other elements of community schools can substantially increase teacher recruitment and retention, as well as improve the quality of instruction.
+*	Opportunities for collaboration and professional learning are key to supporting and retaining teachers. These and other elements of community schools can substantially increase teacher recruitment and retention, as well as improve the quality of instruction.<sup>[40](#endnotes)</sup>
 
 #### Useful Facts and Statistics
 
@@ -115,7 +115,7 @@ Many children in our country are experiencing economic and housing insecurity.
 
 *	In 2015, 27% of African American and 24% of Latinx children were [living in households where they could not count on having enough food](https://www.childtrends.org/indicators/food-insecurity) for everyone in the family to lead an active, healthy life.
 
-*	In 2016, twenty-seven percent of children 18 and younger [were living with a single parent](https://www.census.gov/newsroom/press-releases/2016/cb16-192.html), and 4% were living with neither parent. Also in 2016, roughly 437,000 [children lived in foster care](https://www.acf.hhs.gov/cb/resource/trends-in-foster-care-and-adoption) each day, with a total of 687,000 children in the foster care system that year. In 2015, 2.9 million children were being [raised by grandparents](http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2016/11/02/why-more-grandparents-are-raising-children).
+*	In 2016, twenty-seven percent of children 18 and younger [were living with a single parent](https://www.census.gov/newsroom/press-releases/2016/cb16-192.html), and 4% were living with neither parent. Also in 2016, roughly 437,000 [children lived in foster care](https://www.acf.hhs.gov/cb/resource/trends-in-foster-care-and-adoption) on a daily basis, with a total of 687,000 children in the foster care system that year. In 2015, 2.9 million children were being [raised by grandparents](http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2016/11/02/why-more-grandparents-are-raising-children).
 
 *	In 2017, nearly 115,000 [children experienced homelessness](https://www.hudexchange.info/resources/documents/2017-AHAR-Part-1.pdf), and 2.5% of [elementary and secondary students were identified as homeless](https://nces.ed.gov/programs/coe/indicator_tgh.asp) in 2015.
 
@@ -170,3 +170,10 @@ Americans support the involvement of public schools in addressing these challeng
 
 <dd>A: There are excellent examples of community schools in rural areas in several parts of the country. In New York State, for example, community schools in Massena and in Broome County have hosted visits from other states to serve as exemplars of how the community schools strategy can be adapted in rural areas. Many of Kentucky’s <a href="https://chfs.ky.gov/agencies/dfrcvs/dfrysc/Pages/default.aspx/">Family Resource and Youth Services Centers</a> are located in rural communities throughout the state. <a href="http://www.ruraledu.org/">The Rural and Community Trust</a> is an active advocate for expanding community schools in rural areas and can offer many other examples.</dd>
 </dL>
+
+___
+### Endnotes
+
+| [40](chapter-7#collaborative-leadership-and-practices) | Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). _Solving the Teacher Shortage: How to Attract and Retain Excellent Educators_. Palo Alto, CA: Learning Policy Institute; Darling-Hammond, L., Hyler, M. E., Gardner, M. (2017). _Effective Teacher Professional Development_. Palo Alto, CA: Learning Policy Institute. |
+
+[See all Endnotes](endnotes)
