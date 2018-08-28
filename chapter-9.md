@@ -1,10 +1,10 @@
 ---
 layout: chapter
-title:  "Appendix"
+title:  "Chapter 9"
 subtitle: "Community Schools in ESSA State Plans"
 date:   2018-08-23 21:15:10 -0400
-categories: appendix
-permalink: essa
+categories: section-three
+permalink: chapter-9
 image: assets/images/screen-drawing-crop.jpg
 ---
 

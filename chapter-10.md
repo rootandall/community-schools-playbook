@@ -1,15 +1,15 @@
 ---
 layout: resource
-title:  "Resources"
+title:  "Chapter 10"
 subtitle: "Implementation Resources"
 date:   2018-08-23 22:42:10 -0400
-categories: resources
-permalink: implementation-resources
+categories: section-three
+permalink: chapter-10
 image: assets/images/posters-crop.jpg
 download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf
 ---
 ### Chapter 2
-####Policies that Advance Community Schools
+#### Policies that Advance Community Schools
 
 | [Building Community Schools: A Guide for Action](http://www.nccs.org/sites/default/files/resource/NCCS_BuildingCommunitySchools.pdf), National Center for Community Schools |
 | [Community School Standards](http://www.communityschools.org/resources/community_schools_standards_.aspx), Coalition for Community Schools |
