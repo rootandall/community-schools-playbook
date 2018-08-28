@@ -65,6 +65,13 @@ The Community Schools Playbook was produced for the [Partnership for the Future 
 <dl>
 <dt>Photography</dt>
 <dd><a href="https://benfilio.com/">Ben Filio</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
+<dd><a href="http://www.nicosegalltobon.com/">Nico Segall Tobon</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
+<dd><a href="http://christophersprowls.com/">Christopher Sprowls</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
+<dd><a href="http://www.briancohenphotography.com/">Brian Cohen</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
+</dl>
+<dl>
+<dt>Infographics</dt>
+<dd><a href="https://learningpolicyinstitute.org/">Learning Policy Institute</a></dd>
 </dl>
 <dl>
 <dt>Book</dt>
