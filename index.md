@@ -108,7 +108,7 @@ layout: home
 				<h3>Community Schools in ESSA State Plans</h3>
 				<p>From Maryland to New Mexico, Ohio to Hawaii, see how states are activating community schools through ESSA.</p>
 				<ul class="actions">
-					<li><a href="essa" class="button fit small">Explore the state plans</a></li>
+					<li><a href="chapter-9" class="button fit small">Explore the state plans</a></li>
 				</ul>
 			</two-up>
 			<two-up>
@@ -116,7 +116,7 @@ layout: home
 				<h3>Implementation Resources</h3>
 				<p>A collection of guides, standards, strategies, and other tools for implementing Community Schools.</p>
 				<ul class="actions">
-					<li><a href="implementation-resources" class="button fit small">Browse the resources</a></li>
+					<li><a href="chapter-10" class="button fit small">Browse the resources</a></li>
 				</ul>
 			</two-up>
 			</div>
