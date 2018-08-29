@@ -50,13 +50,15 @@
               <header class="menu">
                 <h4><a href="{{ '#section-three' | relative_url }}">Section Three:<br /> Resources You Can Use</a></h4>
               </header>
-                <li {% if current[1] == 'chapter-7' %}class='active'{% endif %}>Messaging</li>
+                <li {% if current[1] == 'chapter-7' %}class='active'{% endif %}><span class="opener">Messaging</span>
                   <ul>
                     <li><a href=" {{ 'chapter-7' | relative_url }} ">How to Effectively Communicate for Community Schools</a></li>
                     <li><a href=" {{ 'chapter-7#talking-points' | relative_url }} ">Talking Points</a></li>
                     <li><a href=" {{ 'chapter-7#useful-facts-and-statistics' | relative_url }} ">Facts & Statistics</a></li>
                     <li><a href=" {{ 'chapter-7#answering-tough-questions' | relative_url }} ">Answering Tough Questions</a></li>
                   </ul>
+                </li>
+
                 <li{% if current[1] == 'model-leg_state' %} class='active'{% endif %}{% if current[1] == 'model-leg_school' %} class='active'{% endif %}{% if current[1] == 'model-leg_local' %} class='active'{% endif %}>Model Legislation</li>
                   <ul>
                     <li><a href=" {{ 'model-leg_state' | relative_url }}">Model State Community Schools Act</a></li>
@@ -65,7 +67,6 @@
                   </ul>
                 <li><a href=" {{ 'chapter-9' | relative_url }}" {% if current[1] == 'chapter-9' %}class='active'{% endif %}>Community Schools in ESSA State Plans</a></li>
                 <li><a href=" {{ 'chapter-10' | relative_url }}" {% if current[1] == 'chapter-10' %}class='active'{% endif %}>Implementation Resources</a></li>
-
 
                 <header class="menu">
                   <h4>Quick Links</h4>
