@@ -19,7 +19,7 @@ download: assets/downloads/community-schools-playbook_chapter-10.pdf
 | [Community Schools: Resources](https://www.aft.org/position/community-schools/resources), American Federation of Teachers |
 | [Community Schools: Transforming Struggling Schools into Thriving Schools](https://populardemocracy.org/news/publications/community-schools-transforming-struggling-schools-thriving-schools), Center for Popular Democracy |
 | [ESSA Resources](http://www.communityschools.org/policy_advocacy/esea_reauthorization.aspx), Coalition for Community Schools |
-| [Leading with Purpose and Passion: A Guide for Community School Directors](https://www.nccs.org/sites/default/files/resource/NCCS_FNL_spreads2_web%20%28002%29_0.pdf), National Center for Community Schools |
+| [Leading with Purpose and Passion: A Guide for Community School Directors](https://www.nccs.org/sites/default/files/resource/NCCS_CS_Directors_Guide.pdf), National Center for Community Schools |
 | [Partnerships, Not Pushouts—A Guide for School Board Members: Community Partnerships for Student Success](http://schottfoundation.org/sites/default/files/2014-122_POPGuide_DIGITAL.PDF) |
 | [Scaling Up School and Community Partnerships](http://www.communityschools.org/resources/systems_web_guide.aspx), Coalition for Community Schools |
 | [The Six Pillars of Community Schools Toolkit](http://www.nea.org/assets/docs/Comm Schools ToolKit-final digi-web-72617.pdf), National Education Association |
@@ -32,7 +32,7 @@ download: assets/downloads/community-schools-playbook_chapter-10.pdf
 |	[Building Community Schools: A Guide for Action](http://www.nccs.org/sites/default/files/resource/NCCS_BuildingCommunitySchools.pdf), National Center for Community Schools |
 |	[Community School Standards](http://www.communityschools.org/resources/community_schools_standards_.aspx), Coalition for Community Schools |
 |	[Community Schools as an Effective School Improvement Strategy: A Review of the Evidence](https://learningpolicyinstitute.org/sites/default/files/product-files/Community_Schools_Effective_REPORT.pdf), Learning Policy Institute |
-|	[Leading with Purpose and Passion: A Guide for Community School Directors](https://www.nccs.org/sites/default/files/resource/NCCS_FNL_spreads2_web%20%28002%29_0.pdf), National Center for Community Schools |
+|	[Leading with Purpose and Passion: A Guide for Community School Directors](https://www.nccs.org/sites/default/files/resource/NCCS_CS_Directors_Guide.pdf), National Center for Community Schools |
 |	[Making the Grade: A Progress Report and Next Steps for Integrated Student Supports](https://www.childtrends.org/publications/making-grade-progress-report-next-steps-integrated-student-supports), Child Trends |
 |	[National Evaluation: Five-Year Summary Report](https://www.communitiesinschools.org/our-data/publications/publication/five-year-national-evaluation-executive-summary), Communities in Schools |
 |	[Policy Brief: Principles of Effective Practice for Integrated Student Support](https://www.bc.edu/content/dam/files/schools/lsoe/cityconnects/pdf/Policy%20Brief%20-%20Building%20Sustainable%20Interventions%20web.pdf), City Connects, City Connects |
