@@ -24,34 +24,34 @@ Infographics created by [Learning Policy Institute](https://learningpolicyinstit
 
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/community-schools-playbook/assets/images/four-pillars.png' class='download-image' download><img src='/community-schools-playbook/assets/images/four-pillars-sample.png' width='425' height='519' /></a>
+					<a href='/assets/images/four-pillars.png' class='download-image' download><img src='/assets/images/four-pillars-sample.png' width='425' height='519' /></a>
 			</div>
 			<div class='video-right'>
-					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Community Schools Infographic</span><br /><br /><a class='button' href='/community-schools-playbook/assets/downloads/four-pillars.pdf' download>Download PDF</a><br /><br /><a class='button' href='/community-schools-playbook/assets/images/four-pillars.png' download>Download PNG</a><br />
-					<br /><a href="/community-schools-playbook/assets/downloads/full-kit.zip" class="button" download>Download Full Kit</a>
+					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Community Schools Infographic</span><br /><br /><a class='button' href='/assets/downloads/four-pillars.pdf' download>Download PDF</a><br /><br /><a class='button' href='/assets/images/four-pillars.png' download>Download PNG</a><br />
+					<br /><a href="/assets/downloads/full-kit.zip" class="button" download>Download Full Kit</a>
 			</div>
 </div>
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/community-schools-playbook/assets/downloads/four-pillars-horizontal-1200.png' class='download-image' download><img src='/community-schools-playbook/assets/images/four-pillars-horizontal-sample.png' width='425' height='245' /></a>
+					<a href='/assets/downloads/four-pillars-horizontal-1200.png' class='download-image' download><img src='/assets/images/four-pillars-horizontal-sample.png' width='425' height='245' /></a>
 			</div>
 			<div class='video-right'>
-					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Horizontal Infographic</span><br /><br /><a class='button' href='/community-schools-playbook/assets/downloads/four-pillars-horizontal.png' download>Download PNG</a>
+					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Horizontal Infographic</span><br /><br /><a class='button' href='/assets/downloads/four-pillars-horizontal.png' download>Download PNG</a>
 			</div>
 </div>
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/community-schools-playbook/assets/downloads/squares.zip' class='download-image' download><img src='/community-schools-playbook/assets/images/squares-sample.png' width='425' height='425' /></a>
+					<a href='/assets/downloads/squares.zip' class='download-image' download><img src='/assets/images/squares-sample.png' width='425' height='425' /></a>
 			</div>
 			<div class='video-right'>
-					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Pillar Infographics - Square</span><br /><br /><a class='button' href='/community-schools-playbook/assets/downloads/squares.zip' download>Download PNGs</a>
+					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Pillar Infographics - Square</span><br /><br /><a class='button' href='/assets/downloads/squares.zip' download>Download PNGs</a>
 			</div>
 </div>
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/community-schools-playbook/assets/downloads/horizontals.zip' class='download-image' download><img src='/community-schools-playbook/assets/images/horizontals-sample.png' width='425' height='235' /></a>
+					<a href='/assets/downloads/horizontals.zip' class='download-image' download><img src='/assets/images/horizontals-sample.png' width='425' height='235' /></a>
 			</div>
 			<div class='video-right'>
-					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Pillar Infographics - Horizontal</span><br /><br /><a class='button' href='/community-schools-playbook/assets/downloads/horizontals.zip' download>Download PNGs</a>
+					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Pillar Infographics - Horizontal</span><br /><br /><a class='button' href='/assets/downloads/horizontals.zip' download>Download PNGs</a>
 			</div>
 </div>
