@@ -59,19 +59,20 @@
                   </ul>
                 </li>
 
-                <li{% if current[1] == 'model-leg_state' %} class='active'{% endif %}{% if current[1] == 'model-leg_school' %} class='active'{% endif %}{% if current[1] == 'model-leg_local' %} class='active'{% endif %}>Model Legislation</li>
-                  <ul>
-                    <li><a href=" {{ 'model-leg_state' | relative_url }}">Model State Community Schools Act</a></li>
-                    <li><a href=" {{ 'model-leg_school' | relative_url }}">Model School Board Resolution</a></li>
-                    <li><a href=" {{ 'model-leg_local' | relative_url }}">Model City or County Resolution in support of community schools</a></li>
-                  </ul>
+                <li{% if current[1] == 'model-leg_state' %} class='active'{% endif %}{% if current[1] == 'model-leg_school' %} class='active'{% endif %}{% if current[1] == 'model-leg_local' %} class='active'{% endif %}><span class="opener">Model Legislation</span>
+                    <ul>
+                      <li><a href=" {{ 'model-leg_state' | relative_url }}">Model State Community Schools Act</a></li>
+                      <li><a href=" {{ 'model-leg_school' | relative_url }}">Model School Board Resolution</a></li>
+                      <li><a href=" {{ 'model-leg_local' | relative_url }}">Model City or County Resolution in support of community schools</a></li>
+                    </ul>
+                  </li>
                 <li><a href=" {{ 'chapter-9' | relative_url }}" {% if current[1] == 'chapter-9' %}class='active'{% endif %}>Community Schools in ESSA State Plans</a></li>
                 <li><a href=" {{ 'chapter-10' | relative_url }}" {% if current[1] == 'chapter-10' %}class='active'{% endif %}>Implementation Resources</a></li>
 
                 <header class="menu">
                   <h4>Quick Links</h4>
                 </header>
-                <li>Policy Principles</li>
+                <li><span class="opener">Policy Principles</span>
                     <ul>
                       <li><a href=" {{ 'chapter-2#key-policy-principles' | relative_url }} ">Comprehensive Community Schools</a></li>
                       <li><a href=" {{ 'chapter-3#policy-principles' | relative_url }} ">Integrated Student Supports</a></li>
@@ -79,8 +80,9 @@
                       <li><a href=" {{ 'chapter-5#policy-principles' | relative_url }} ">Active Family and Community Engagement</a></li>
                       <li><a href=" {{ 'chapter-6#policy-principles' | relative_url }} ">Collaborative Leadership and Practices</a></li>
                     </ul>
+                  </li>
 
-                  <li>Policy Types &amp; Examples</li>
+                  <li><span class="opener">Policy Types &amp; Examples</span>
                     <ul>
                       <li><a href=" {{ 'chapter-2#exemplary-state-policies' | relative_url }} ">Comprehensive Community Schools</a></li>
                       <li><a href=" {{ 'chapter-3#policy-types-and-examples' | relative_url }} ">Integrated Student Supports</a></li>
@@ -88,8 +90,9 @@
                       <li><a href=" {{ 'chapter-5#policy-types-and-examples' | relative_url }} ">Active Family and Community Engagement</a></li>
                       <li><a href=" {{ 'chapter-6#policy-types-and-examples' | relative_url }} ">Collaborative Leadership and Practices</a></li>
                     </ul>
+                  </li>
 
-                  <li>Funding</li>
+                  <li><span class="opener">Funding</span>
                     <ul>
                       <li><a href=" {{ 'chapter-2#federal-opportunities-through-essa' | relative_url }} ">Federal Opportunities through ESSA</a></li>
                       <li><a href=" {{ 'chapter-2#grant-programs-to-develop-and-support-planning-of-local-community-schools' | relative_url }} ">Comprehensive State Grants</a></li>
@@ -100,6 +103,7 @@
                       <li><a href=" {{ 'chapter-4#state-funding-for-longer-school-days-and-years' | relative_url }} ">State Funding for Longer School Days and Year</a></li>
                       <li><a href=" {{ 'chapter-6#state-funding-and-guidance' | relative_url }} ">State Funding for Collaborative Leadership and Practices</a></li>
                     </ul>
+                  </li>
 
               <header class="menu">
                 <h4><a href=" {{ 'videos-media' | relative_url }} ">Media</a></h4>
