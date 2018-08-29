@@ -6,7 +6,7 @@ date:   2018-08-22 18:12:10 -0400
 categories: section-two
 permalink: chapter-5
 image:  assets/images/pillar-3-family.png
-download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf
+download: assets/downloads/community-schools-playbook_chapter-5.pdf
 ---
 <!-- <p><span class="image right"><img src="assets/images/pillar-3-family_square.png" alt="" /></span>Active family and community engagement—the third pillar of community schools—is essential to fostering relationships of trust and respect, building the capacity of all stakeholders and the school, creating empowered decision-making processes, and leveraging local resources and expertise to address educational inequities. Community schools prioritize meaningful and ongoing engagement of families and community members and establish the systems, structures, and supports to make it happen. Educators and other staff at community schools understand that engagement happens on a continuum—from partnering with parents to develop and promote a vision for student success, to offering courses, activities, and services for parents and community members, to creating structures and opportunities for shared leadership. Families and community members, for their part, feel welcome, supported, and valued as essential partners.
 </p> -->
@@ -129,7 +129,7 @@ Mayoral support can also help to drive the local implementation of community sch
 
 ## Implementation
 <ul class="actions">
-  <li><a href=" {{ 'implementation-resources#chapter-5' | relative_url }}" class="button icon fa-wrench">See more Implementation Resources</a></li>
+  <li><a href=" {{ 'chapter-10#chapter-5' | relative_url }}" class="button icon fa-wrench">See more Implementation Resources</a></li>
 </ul>
 
 High-quality implementation is a crucial determinant of positive program outcomes. High-quality programs do not happen by chance. They result from policy choices, resource allocations, and technical assistance that support both staff capacity and student participation. They also depend on active family and community engagement.

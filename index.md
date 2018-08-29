@@ -15,7 +15,7 @@ layout: home
 		<h3>An Introduction to Community Schools</h3>
 		<p>Learn about the definition of Community Schools, why they work, and what it takes to implement them.</p>
 		<ul class="actions">
-			<li><a href="chapter-1" class="button fit small">Jump to Chapter 1 to learn more</a></li>
+			<li><a href="chapter-1" class="button fit small">Read the introduction</a></li>
 		</ul>
 	</two-up>
 	<two-up>
@@ -23,7 +23,7 @@ layout: home
 		<h3>Policies that Advance Community Schools</h3>
 		<p>Understand the policy mechanisms and principles that underpin Community Schools and see how they are being implemented in states.</p>
 		<ul class="actions">
-			<li><a href="chapter-2" class="button fit small">Jump to Chapter 2 to learn more</a></li>
+			<li><a href="chapter-2" class="button fit small">Learn about the policies</a></li>
 		</ul>
 	</two-up>
 	</div>
@@ -39,7 +39,7 @@ layout: home
 			<div class="content">
 				<h3>Integrated Student Supports</h3>
 				<p>A dedicated staff member coordinates support programs to address out-of-school learning barriers for students and families. Mental and physical health services support student success.</p>
-				<a href="chapter-3" class="button fit small">Jump to Chapter 3 to learn more</a>
+				<a href="chapter-3" class="button fit small">Learn about the first pillar</a>
 			</div>
 		</article>
 		<article>
@@ -47,7 +47,7 @@ layout: home
 			<div class="content">
 			<h3>Expanded and Enriched Learning Time and Opportunities</h3>
 			<p>Enrichment activities emphasize real-world learning and community problem solving. After-school, weekend, and summer programs provide academic instruction and individualized support.</p>
-			<a href="chapter-4" class="button fit small">Jump to Chapter 4 to learn more</a>
+			<a href="chapter-4" class="button fit small">Learn about the second pillar</a>
 			</div>
 		</article>
 		<article>
@@ -55,7 +55,7 @@ layout: home
 			<div class="content">
 				<h3>Active Family and Community Engagement</h3>
 				<p>Schools function as neighborhood hubs. There are educational opportunities for adults, and family members can share their stories and serve as equal partners in promoting student success.</p>
-				<a href="chapter-5" class="button fit small">Jump to Chapter 5 to learn more</a>
+				<a href="chapter-5" class="button fit small">Learn about the third pillar</a>
 			</div>
 		</article>
 		<article>
@@ -63,7 +63,7 @@ layout: home
 			<div class="content">
 				<h3>Collaborative Leadership and Practices</h3>
 				<p>Parents, students, teachers, principals, and community partners build a culture of professional learning, collective trust, and shared responsibility through site-based leadership teams and teacher learning communities.</p>
-				<a href="chapter-6" class="button fit small">Jump to Chapter 6 to learn more</a>
+				<a href="chapter-6" class="button fit small">Learn about the fourth pillar</a>
 			</div>
 		</article>
 	</div>

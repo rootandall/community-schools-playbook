@@ -5,7 +5,7 @@ subtitle: "State Community Schools Act"
 date:   2018-08-19 21:11:16 -0400
 categories: model legislation
 permalink: model-leg_state
-download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf
+download: assets/downloads/community-schools-playbook_chapter-8_state.pdf
 ---
 
 This bill is modeled off of Minnesota Statute [124D.231](https://www.revisor.mn.gov/statutes/?id=124D.231), New York [S 3481](http://legislation.nysenate.gov/pdf/bills/2017/S3481), and Tennessee [SB 2393](http://www.capitol.tn.gov/Bills/110/Bill/HB2472.pdf).
@@ -166,7 +166,7 @@ This Act shall be called the “Community Schools Act.”
           <ol class="leg_3">
             <li>Health services that may be based in the eligible school or provided in the community, including primary health, dental care, and mental health including trauma-informed care;</li>
             <li>Nutrition services, including providing additional meals or assistance in accessing food assistance programs;</li>
-            <li>Programs that provide assistance to students who have been chronically absent, suspended, or expelled;</li>
+            <li>Programs that provide assistance to students who have been chronically absent, suspended, or expelled:</li>
               <ol class="leg_4">
                 <li>Mentoring and other youth development programs;</li>
                 <li>Programs that support positive school climates;</li>
@@ -180,9 +180,9 @@ This Act shall be called the “Community Schools Act.”
               </ol>             
            </ol>
           <li>Implement expanded and enriched learning time and opportunities, which may include additional academic instruction, before- and after-school and summer learning programs, mentorship programs, job training, internships, apprenticeships, and service-learning opportunities, and provide time for the community school director, school staff, the school-based leadership team and others to plan, coordinate, and integrate these opportunities;</li>
-          <li>Implement at least two family and community engagement activities, which may include:</li>
+          <li>Implement at least two active family and community engagement strategies, which may include:</li>
             <ol class="leg_3">
-              <li>On-site early childhood care and education programs;</li>
+              <li>On-site early childhood care and education programs; and</li>
               <li>Home visitation services by teachers and other professionals;</li>
               <li>Adult education, including instruction in English as a second language, GED or credit recovery programs;</li>
               <li>Job search and preparation services and career advancement activities;</li>

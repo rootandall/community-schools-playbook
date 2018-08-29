@@ -5,7 +5,7 @@ subtitle: "School Board Resolution"
 date:   2018-08-22 17:22:16 -0400
 categories: model legislation
 permalink: model-leg_school
-download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf
+download: assets/downloads/community-schools-playbook_chapter-8_school.pdf
 ---
 
 WHEREAS, Every child should be able to grow up and have the opportunity to achieve his or her dreams and contribute to the well-being of society. Every community deserves public schools that deliver on that promise.

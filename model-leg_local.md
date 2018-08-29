@@ -5,7 +5,7 @@ subtitle: "City or County Resolution"
 date:   2018-08-22 17:32:16 -0400
 categories: model legislation
 permalink: model-leg_local
-download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf
+download: assets/downloads/community-schools-playbook_chapter-8_local.pdf
 ---
 
 WHEREAS, Every child should be able to grow up and have the opportunity to achieve his or her dreams and contribute to the well-being of society. Every community deserves a public school system that fully delivers on that promise.

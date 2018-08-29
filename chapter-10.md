@@ -1,12 +1,12 @@
 ---
-layout: resource
+layout: chapter
 title:  "Chapter 10"
 subtitle: "Implementation Resources"
 date:   2018-08-23 22:42:10 -0400
 categories: section-three
 permalink: chapter-10
-image: assets/images/posters-crop.jpg
-download: https://futureforlearning.org/wp-content/uploads/2018/08/CS-Book-Promo-Flyer_Aug-2018.pdf
+image: assets/images/chevron-table-crop.jpg
+download: assets/downloads/community-schools-playbook_chapter-10.pdf
 ---
 ### Chapter 2
 #### Policies that Advance Community Schools
