@@ -33,10 +33,10 @@ Infographics created by [Learning Policy Institute](https://learningpolicyinstit
 </div>
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/assets/downloads/four-pillars-horizontal-1200.png' class='download-image' download><img src='/assets/images/four-pillars-horizontal-sample.png' width='425' height='245' /></a>
+					<a href='/assets/images/four-pillars-horizontal.png' class='download-image' download><img src='/assets/images/four-pillars-horizontal-sample.png' width='425' height='245' /></a>
 			</div>
 			<div class='video-right'>
-					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Horizontal Infographic</span><br /><br /><a class='button' href='/assets/downloads/four-pillars-horizontal.png' download>Download PNG</a>
+					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Horizontal Infographic</span><br /><br /><a class='button' href='/assets/images/four-pillars-horizontal.png' download>Download PNG</a>
 			</div>
 </div>
 <div class='videos-container'>
