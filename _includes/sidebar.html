@@ -32,14 +32,14 @@
             </li>-->
 
               <header class="menu">
-                <h4><a href="/community-schools-playbook/#section-one">Section One:<br /> The Fundamentals</a></h4>
+                <h4><a href="{{ '#section-one' | relative_url }}">Section One:<br /> The Fundamentals</a></h4>
               </header>
                 <li><a href=" {{ 'chapter-1' | relative_url }}" {% if current[1] == 'chapter-1' %}class='active'{% endif %}>An Introduction to Community Schools</a></li>
                 <li><a href=" {{ 'chapter-2' | relative_url }}" {% if current[1] == 'chapter-2' %}class='active'{% endif %}>Policies that Advance Community Schools</a></li>
 
 
               <header class="menu">
-                <h4><a href="/community-schools-playbook/#section-two">Section Two:<br /> The Four Pillars</a></h4>
+                <h4><a href="{{ '#section-two' | relative_url }}">Section Two:<br /> The Four Pillars</a></h4>
               </header>
                 <li><a href=" {{ 'chapter-3' | relative_url }}" {% if current[1] == 'chapter-3' %}class='active'{% endif %}>First Pillar: Integrated Student Supports</a></li>
                 <li><a href=" {{ 'chapter-4' | relative_url }}" {% if current[1] == 'chapter-4' %}class='active'{% endif %}>Second Pillar: Expanded and Enriched Learning Time and Opportunities</a></li>
@@ -48,7 +48,7 @@
 
 
               <header class="menu">
-                <h4><a href="/community-schools-playbook/#section-three">Section Three:<br /> Resources You Can Use</a></h4>
+                <h4><a href="{{ '#section-three' | relative_url }}">Section Three:<br /> Resources You Can Use</a></h4>
               </header>
                 <li {% if current[1] == 'chapter-7' %}class='active'{% endif %}><span class="opener">Messaging</span>
                   <ul>
