@@ -23,7 +23,7 @@ twitter_username: #
 github_username:  #
 twitter:
   card: summary
-  image:  "https:communityschools.futureforlearning.org/assets/images/playbook-cover.png" 
+  logo:  "https:communityschools.futureforlearning.org/assets/images/pfl-logo_twitter.png" 
 
 # Build settings
 markdown: kramdown
