@@ -17,7 +17,14 @@ We've collected these videos and infographics to help you tell the story of comm
 			<div class="video-right"><iframe width="400" height="225" src="https://www.youtube.com/embed/oc64K3obVqE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="video-left"><iframe width="400" height="225" src="https://www.youtube.com/embed/P8GaUJEP2h0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="video-right"><iframe width="400" height="225" src="https://www.youtube.com/embed/0OQ-mZA6hI0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="video-left"><iframe width="400" height="225" src="https://player.vimeo.com/video/225697826?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="video-right"><iframe width="400" height="225" src="https://player.vimeo.com/video/259100508?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="video-left"><iframe width="400" height="225" src="https://player.vimeo.com/video/259098211?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="video-right"><iframe width="400" height="225" src="https://player.vimeo.com/video/259061426?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="video-left"><iframe width="400" height="225" src="https://player.vimeo.com/video/259037149?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="video-right"><iframe width="400" height="225" src="https://player.vimeo.com/video/259105235?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 </div>
+Clips from _The Long View_ provided courtesy of [Community Concern Films](https://www.communityconcernfilms.org/). See more and download a screening guide at [communityconcernfilms.org](https://www.communityconcernfilms.org).
 
 #### Infographics
 Infographics created by [Learning Policy Institute](https://learningpolicyinstitute.org/)
