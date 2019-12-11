@@ -1102,6 +1102,13 @@ table a{
    padding: 10px;
 	 text-align:center;
 }
+
+.video-feature {
+	float: none;
+	width:auto;
+	padding: 3em;
+}
+
 .video-left {
   float:left;
   width:50%;

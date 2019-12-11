@@ -8,11 +8,21 @@ permalink: videos-media
 image: assets/images/microphone-crop.jpg
 ---
 
-We've collected these videos and infographics to help you tell the story of community schools.
+#### Animated Explainer
+Anyone can understand Community Schools with the help of this short animation.
+<div class="videos-container">
+	<div class="video-feature">
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/5dTXujuJRc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
 
 #### Videos
-
+A curated collection of videos exploring Community Schools from a variety of angles.
 <div class="videos-container">
+			<div class="video-left">	<iframe width="400" height="225" src="https://www.youtube.com/embed/NjmOF9vRkNs" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe></div>
+			<div class="video-right"><iframe width="400" height="225" src="https://www.youtube.com/embed/rIgI_AQflGo" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe></div>
+			<div class="video-left"><iframe width="400" height="225" src="https://www.youtube.com/embed/JJ5WSDSKlyE" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe></div>
+			<div class="video-right"><iframe width="400" height="225" src="https://www.youtube.com/embed/ABToGNOQp7s" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe></div>
 			<div class="video-left"><iframe width="400" height="225" src="https://www.youtube.com/embed/Y4rwr5n3V6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="video-right"><iframe width="400" height="225" src="https://www.youtube.com/embed/oc64K3obVqE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="video-left"><iframe width="400" height="225" src="https://www.youtube.com/embed/P8GaUJEP2h0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
@@ -23,6 +33,7 @@ We've collected these videos and infographics to help you tell the story of comm
 			<div class="video-right"><iframe width="400" height="225" src="https://player.vimeo.com/video/259061426?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="video-left"><iframe width="400" height="225" src="https://player.vimeo.com/video/259037149?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 			<div class="video-right"><iframe width="400" height="225" src="https://player.vimeo.com/video/259105235?byline=0&portrait=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+			<div class="video-left"><iframe width="400" height="225" src="https://www.youtube.com/embed/r_2zFFQxr7M" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe></div>
 </div>
 Clips from _The Long View_ provided courtesy of [Community Concern Films](https://www.communityconcernfilms.org/). See more and download a screening guide at [communityconcernfilms.org](https://www.communityconcernfilms.org).
 
