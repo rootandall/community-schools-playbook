@@ -20,7 +20,7 @@ WHEREAS, According to a report from the Learning Policy Institute, the four key 
 
 WHEREAS, Research shows that community school interventions can result in improvements in a variety of student outcomes, including attendance, academic achievement (including reducing racial and economic achievement gaps), and high school graduation rates.
 
-WHEREAS, Research also shows that these programs offer a strong return on investment: Up to $15 for every dollar invested in community schools.
+WHEREAS, Research also shows that these programs offer a strong return on investment up to $15 for every dollar invested in community schools.
 
 WHEREAS, Federal funding can be used to support community schools, and research demonstrates that community schools meet the standard under the Every Student Succeeds Act for “evidence-based” approaches to support schools identified for comprehensive and targeted support and intervention.
 

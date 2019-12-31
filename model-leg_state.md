@@ -27,7 +27,7 @@ This Act shall be called the “Community Schools Act.”
     <li>Community schools provide comprehensive programs and services that are carefully selected to meet the unique needs of students and families —such as lack of stable housing, inadequate medical and dental care, hunger, trauma, and exposure to violence— so students can do their best.</li>
     <li>According to a report from the Learning Policy Institute, the four key pillars of the community schools approach—integrated student supports, expanded and enriched learning time and opportunities, family and community engagement, and collaborative leadership and practice—promote conditions and practices found in high-quality schools, as well as address out-of-school barriers to learning.</li>
     <li>Research shows that community school interventions can result in improvements in a variety of student outcomes, including attendance, academic achievement (including reducing racial and economic achievement gaps), and high school graduation rates, and meet the Every Student Succeeds Act standard of “evidenced-based” approaches to support schools identified for comprehensive and targeted support and intervention.</li>
-    <li>Research also shows that these programs offer a strong return on investment: 10 to 15 dollars for every dollar invested in community schools.</li>
+    <li>Research also shows that these programs offer a strong return on investment of up to $15 for every dollar invested in community schools.</li>
 </ol>
 
 ###### (B)  PURPOSE
@@ -45,7 +45,7 @@ This Act shall be called the “Community Schools Act.”
 
       <ol class="leg_2">
         <li>Integrated student supports, which address out-of-school barriers to learning through partnerships with social and health service agencies and providers, coordinated by a community school director, which may include but are not limited to: medical, dental, vision care and mental health services, or counselors to assist with housing, transportation, nutrition, immigration or criminal justice issues.</li>
-        <li>Expanded and enriched learning time and opportunities, including before-school, after-school, weekend and summer programs, which provide additional academic instruction, individualized academic support, enrichment activities, and learning opportunities that emphasize real-world learning and community problem solving and which may include but are not limited to: art, music, drama, creative writing, hands-on experience with engineering or science, tutoring and homework help, and recreational programs that enhance and are consistent with the school’s curriculum.</li>
+        <li>Expanded and enriched learning time and opportunities, including before-school, afterschool, weekend and summer programs, which provide additional academic instruction, individualized academic support, enrichment activities, and learning opportunities that emphasize real-world learning and community problem solving and which may include but are not limited to: art, music, drama, creative writing, hands-on experience with engineering or science, tutoring and homework help, and recreational programs that enhance and are consistent with the school’s curriculum.</li>
         <li>active family and community engagement, which brings students’ families and the community into the school as partners in children’s education and makes the school a neighborhood hub providing adults with educational opportunities they want, including but not limited to: English as a Second Language classes, green card or citizenship preparation, computer skills, art, or other programs that bring community members into the building for meetings or events.</li>
         <li>Collaborative leadership and practice, which builds a culture of professional learning, collective trust and shared responsibility using strategies which shall, at a minimum, include a school-based leadership team, a community school director, and a community-wide leadership team and may include, but is not limited to: other leadership/governance teams, teacher learning communities, and other staff to manage the multiple, complex joint work of school and community organizations.</li>
       </ol>
@@ -150,7 +150,7 @@ This Act shall be called the “Community Schools Act.”
         <li>The collaborative leadership and practice structures and strategies;</li>
         <li>The integrated student supports, expanded and enriched learning time and opportunities, and family and community engagement activities that will be tailored to the needs and assets assessment under Section 3(E)(1) and provided in accordance with the activities specified in Section 3(F)(1);</li>
         <li>How the eligible school will provide culturally and linguistically relevant communication between schools and families;</li>
-        <li> How the eligible school will establish and maintain partnerships with nonprofit organizations, faith-and-community based institutions, institutions of higher education including teacher preparation institutions, hospitals, museums, businesses, and other community entities that will help implement and sustain the community school plan;</li>
+        <li> How the eligible school will establish and maintain partnerships with nonprofit organizations, faith- and community-based institutions, institutions of higher education including teacher preparation institutions, hospitals, museums, businesses, and other community entities that will help implement and sustain the community school plan;</li>
         <li>How activities chosen will reinforce and not be duplicative of existing programs and activities at the eligible school; and</li>
         <li>If applicable, a description of the federal, state, local, and private funds that will be accessed.</li>
       </ol>
@@ -188,10 +188,9 @@ This Act shall be called the “Community Schools Act.”
               <li>Job search and preparation services and career advancement activities;</li>
               <li>Legal services, such as help with green card or citizenship preparation;</li>
               <li>Programs that aid family and community well-being including accessing homeless prevention services;</li>
-              <li>Programs that promote parental involvement and family literacy, provide volunteer opportunities, promote inclusion in School-Based Leadership Teams; and empower and strengthen families and communities.</li>
-            </ol>
-          <li>Provide other programming or services designed to meet school and community needs identified in the needs and assets assessment, that may also satisfy requirements in sections 3(F)(1)(c), 3(F)(1)(d), and 3(F)(1)(e).</li>
-          <li>Conduct an annual self-assessment based on information in Section 3(E) and make the results publicly available.</li>
+              <li>Programs that promote parental involvement and family literacy, provide volunteer opportunities, promote inclusion in School-Based Leadership Teams; and empower and strengthen families and communities;</li>
+              <li>Provide other programming or services designed to meet school and community needs identified in the needs and assets assessment, that may also satisfy requirements in sections 3(F)(1)(c), 3(F)(1)(d), and 3(F)(1)(e); and</li>
+              <li>Publicly disclose the results of an annual self-assessment based on information in Section 3(E).</li>
         </ol>
       <li>Required activities shall not be duplicative of existing programs and activities.</li>
     </ol>

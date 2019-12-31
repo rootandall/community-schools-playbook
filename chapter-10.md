@@ -8,6 +8,9 @@ permalink: chapter-10
 image: assets/images/chevron-table-crop.jpg
 download: assets/downloads/community-schools-playbook_chapter-10.pdf
 ---
+
+The passage of good policies in support of community schools is just the important first step toward achieving a comprehensive community schools strategy. The following resources are designed to help you actively engage stakeholders to ensure the policies you enact are successfully implemented and positive program outcomes are attained.
+
 ### Chapter 2
 #### Policies that Advance Community Schools
 

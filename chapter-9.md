@@ -9,6 +9,7 @@ image: assets/images/screen-drawing-crop.jpg
 download: assets/downloads/community-schools-playbook_chapter-9.pdf
 ---
 
+Following are examples of states that have included a community schools strategy in their ESSA State Plans:
 
 ### [Hawaii](http://www.hawaiipublicschools.org/DOE Forms/ESSA/HawaiiESSAPlanApproved.pdf)
 ###### Date approved by DOE: 1/19/2018

@@ -1,14 +1,14 @@
 ---
 layout: chapter
 title:  "Chapter 7"
-subtitle: "Messaging: How to Effectively Communicate for Community Schools"
+subtitle: "Messaging: How to Communicate Effectively for Community Schools"
 date:   2018-08-23 21:15:10 -0400
 categories: section-three
 permalink: chapter-7
 image: assets/images/adults-group-crop.jpg
 download: assets/downloads/community-schools-playbook_chapter-7.pdf
 ---
-Thanks to high-quality public opinion research like the [2017 PDK Poll](http://pdkpoll.org/assets/downloads/PDKnational_poll_2017.pdf), we know that there is strong support for key elements of community schools, such as medical and mental health services and after-school programs.
+Thanks to high-quality public opinion research like the [2017 PDK Poll](http://pdkpoll.org/assets/downloads/PDKnational_poll_2017.pdf), we know there is strong support for key elements of community schools, such as medical and mental health services and afterschool programs.
 
 However, as in any public policy debate, there will be a need for you to describe your position and to persuade others to support it with you.
 
@@ -23,7 +23,7 @@ The first step in effective persuasion is to begin from a point of agreement wit
   <dl>
     <dd>Every neighborhood and community is different. Not all families have access to the same level and breadth of resources. In well-resourced communities, regular access to vision care and dental health services are commonplace. These services are far less available to families in less advantaged communities, however. And children often pay the highest cost for these inequities. For example, without access to affordable vision care, a student in need of glasses can’t read what the teacher is writing on the board. A nagging toothache makes it impossible to concentrate during lessons. Hunger, homelessness, or neighborhood violence also interfere with studies and attendance.</dd>
 
-    <dd>These same children have boundless talents and dreams that go unexplored and undeveloped because they don’t have access to enriching opportunities outside of school, which are also more available in well-resourced communities. One child may strive to be a novelist; another a pediatric surgeon; and another an architect. But they are less likely to have access to programs that explore these interests and talents. Some don’t have anywhere to go to get help with homework. In such communities, children face overlapping real-world problems, and they can’t do their best in school if their out-of-school issues go unaddressed.</dd>
+    <dd>These same children have boundless talents and dreams that go unexplored and undeveloped because they don’t have access to enriching opportunities outside of school, that are also more available in well-resourced communities. One child may strive to be a novelist; another a pediatric surgeon; and another an architect. But they are less likely to have access to programs that explore these interests and talents. Some don’t have anywhere to go to get help with homework. In such communities, children face overlapping real-world problems, and they can’t do their best in school if their out-of-school issues go unaddressed.</dd>
   </dl>
 
 Again, use your own knowledge and manner of speaking. The key, though, is providing examples that resonate with listeners. The more specific the examples, the more obvious the solution—community schools:
@@ -38,11 +38,11 @@ Again, use your own knowledge and manner of speaking. The key, though, is provid
 One way to describe the importance of the four key features of community schools and their interdependence is to use the metaphor of four pillars. Obviously, a structure that loses one of its pillars will crumble. Consider language like this:
 
   <dl>
-    <dd>A community school has four “pillars”: (1) integrated student supports, such as health care, behavioral health, and dental services; (2) expanded and enriched learning time and opportunities, including lengthening the school day/year, offering after-school and summer programs and/or broadening the curriculum to include enrichment and community-based learning; (3) family and community engagement; and (4) collaborative leadership and practices,  such as shared goal setting and decision making, among students, families, teachers, school staff, school/district administrators, and staff from community-based partner organizations.</dd>
+    <dd>A community school has four “pillars”: 1) integrated student supports, such as health care, behavioral health, and dental services; 2) expanded and enriched learning time and opportunities, including lengthening the school day/year, offering after-school and summer programs and/or broadening the curriculum to include enrichment and community-based learning; 3) family and community engagement; and 4) collaborative leadership and practices,  such as shared goal setting and decision making, among students, families, teachers, school staff, school/district administrators, and staff from community-based partner organizations.</dd>
 
     <dd>These four pillars reinforce each other. Together, they ensure that students are engaged and that everyone in the school community feels welcome and supported. They also promote a culture of trust, respect, and collaboration between teachers and administrators and among all school staff, parents, and the broader community.</dd>
 
-    <dd>What makes the community schools strategy particularly effective is the integration of these four features (or pillars); the customization of services, supports, and practices based on the unique assets, needs, and collective vision of each school community; and a focus on advancing shared goals for student learning and success.</dd>
+    <dd>What makes the community schools strategy particularly effective is the integration of these four pillars; the customization of services, supports, and practices based on the unique assets, needs, and collective vision of each school community; and a focus on advancing shared goals for student learning and success.</dd>
   </dl>
 
 ### Talking Points
@@ -77,7 +77,7 @@ Use these messages to reinforce the role of each of the four pillars in creating
 
 *	Millions of children face tremendous challenges outside of school, such as lack of stable housing, inadequate medical and dental care, food insecurity, and exposure to violence. These challenges have an adverse impact on their ability to attend school and be “ready to learn” every day.
 
-*	The impact of these challenges doesn’t stop when students step onto school property. Students can’t do their best inside the classroom if their basic needs aren’t met outside the classroom. If a child needs glasses, has a toothache, or is hungry, for example, he or she won’t put forth the best effort in class.
+*	The impact of these challenges doesn’t stop when students step onto school property. Students can’t do their best inside the classroom if their basic needs aren’t met outside the classroom. If a child needs glasses, has a toothache, or is hungry, for example, he or she can't put forth the best effort in class.
 
 *	By coordinating critical supports at the school site, community schools ensure the needs of students and families are met with minimal disruption to the school day. This, in turn, enables teachers to focus on instruction, knowing that there are other professionals attending to the nonacademic needs of their students.
 
@@ -87,7 +87,7 @@ Use these messages to reinforce the role of each of the four pillars in creating
 
 *	Community schools provide opportunities for expanded and enriched learning time so students—particularly those who are struggling academically—have access to tutors and other resources to support their academic success. These in-school programs—often delivered by nonprofit partner organizations—help level the playing field for students who don’t readily have access to community-based or costly enrichment programs or personalized tutors.
 
-*	After-school, weekend, or summer programs offer children in less-advantaged communities the kinds of enriching experiences that are readily available in higher-income communities. Such opportunities can include community-based lessons and activities, in which students learn from people in their local areas and address real-world issues. These lessons provide rich, engaging, and meaningful opportunities for personal and community development.
+*	Afterschool, weekend, or summer programs offer children in less-advantaged communities the kinds of enriching experiences that are readily available in higher-income communities. Such opportunities can include community-based lessons and activities, in which students learn from people in their local areas and address real-world issues. These lessons provide rich, engaging, and meaningful opportunities for personal and community development.
 
 #### Family and community engagement
 
@@ -115,13 +115,13 @@ Many children in our country are experiencing economic and housing insecurity.
 
 *	In 2015, 27% of African American and 24% of Latinx children were [living in households where they could not count on having enough food](https://www.childtrends.org/indicators/food-insecurity) for everyone in the family to lead an active, healthy life.
 
-*	In 2016, twenty-seven percent of children 18 and younger [were living with a single parent](https://www.census.gov/newsroom/press-releases/2016/cb16-192.html), and 4% were living with neither parent. Also in 2016, roughly 437,000 [children lived in foster care](https://www.acf.hhs.gov/cb/resource/trends-in-foster-care-and-adoption) on a daily basis, with a total of 687,000 children in the foster care system that year. In 2015, 2.9 million children were being [raised by grandparents](http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2016/11/02/why-more-grandparents-are-raising-children).
+*	In 2016, 27% percent of children 18 and younger [were living with a single parent](https://www.census.gov/newsroom/press-releases/2016/cb16-192.html), and 4% were living with neither parent. Also in 2016, roughly 437,000 [children lived in foster care](https://www.acf.hhs.gov/cb/resource/trends-in-foster-care-and-adoption) on a daily basis, with a total of 687,000 children in the foster care system that year. In 2015, 2.9 million children were being [raised by grandparents](http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2016/11/02/why-more-grandparents-are-raising-children).
 
 *	In 2017, nearly 115,000 [children experienced homelessness](https://www.hudexchange.info/resources/documents/2017-AHAR-Part-1.pdf), and 2.5% of [elementary and secondary students were identified as homeless](https://nces.ed.gov/programs/coe/indicator_tgh.asp) in 2015.
 
 Americans support the involvement of public schools in addressing these challenges. Furthermore, the community schools approach offers an effective and fiscally responsible way to do so.
 
-*	According to a [2017 national poll](http://pdkpoll.org/assets/downloads/PDKnational_poll_2017.pdf), Americans strongly support “providing health services” and “mental health services in school” to students who don’t have access to them elsewhere. There is also strong support for “after-school services.”
+*	According to a [2017 national poll](http://pdkpoll.org/assets/downloads/PDKnational_poll_2017.pdf), Americans strongly support “providing health services” and “mental health services in school” to students who don’t have access to them elsewhere. There is also strong support for “afterschool services.”
 
 *	In a study of efforts to improve 12 Chicago elementary schools, [researchers found](https://consortium.uchicago.edu/publications/trust-schools-core-resource-improvement) that schools with strong “relational trust” were more likely to demonstrate marked gains in student learning.
 
