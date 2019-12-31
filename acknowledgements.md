@@ -9,13 +9,13 @@ The Community Schools Playbook was produced for the [Partnership for the Future 
 
 <div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><a href="https://futureforlearning.org/" target="_blank"><img src="assets/images/partner-pfl.png" alt=""></a></span></div>
-					<div class="4u"><span class="image fit"><a href="http://publicleadershipinstitute.org/" target="_blank"><img src="assets/images/partner-pli.png" alt=""></a></span></div>
-					<div class="4u$"><span class="image fit"><a href="http://www.communityschools.org/" target="_blank"><img src="assets/images/partner-cfcs.png" alt=""></a></span></div>
+					<div class="4u"><span class="image fit"><a href="https://futureforlearning.org/" target="_blank"><img src="assets/images/partner-pfl.png" alt="The logo of the Partnership for the Future of Learning"></a></span></div>
+					<div class="4u"><span class="image fit"><a href="http://publicleadershipinstitute.org/" target="_blank"><img src="assets/images/partner-pli.png" alt="The logo of the Public Leadership Institute"></a></span></div>
+					<div class="4u$"><span class="image fit"><a href="http://www.communityschools.org/" target="_blank"><img src="assets/images/partner-cfcs.png" alt="The logo of the Coalition for Community Schools"></a></span></div>
 					<!-- Break -->
-					<div class="4u"><span class="image fit"><a href="https://learningpolicyinstitute.org/" target="_blank"><img src="assets/images/partner-lpi.png" alt=""></a></span></div>
-					<div class="4u"><span class="image fit"><a href="https://nepc.colorado.edu/" target="_blank"><img src="assets/images/partner-nepc.png" alt=""></a></span></div>
-					<div class="4u$"><span class="image fit"><a href="https://www.researchforaction.org/" target="_blank"><img src="assets/images/partner-rfa.png" alt=""></a></span></div>
+					<div class="4u"><span class="image fit"><a href="https://learningpolicyinstitute.org/" target="_blank"><img src="assets/images/partner-lpi.png" alt="The logo of the Learning Policy Institute"></a></span></div>
+					<div class="4u"><span class="image fit"><a href="https://nepc.colorado.edu/" target="_blank"><img src="assets/images/partner-nepc.png" alt="The logo of the National Education Policy Center"></a></span></div>
+					<div class="4u$"><span class="image fit"><a href="https://www.researchforaction.org/" target="_blank"><img src="assets/images/partner-rfa.png" alt="The logo of Research for Action"></a></span></div>
 				</div>
 			</div>
 

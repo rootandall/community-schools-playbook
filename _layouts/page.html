@@ -30,7 +30,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 	</header>
 
                   {% if page.image %}
-                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="{{ page.alt | default: 'An image representing the theme of this page.' }}" /></span>
                   {% endif %}
 
 

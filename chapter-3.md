@@ -6,6 +6,7 @@ date:   2018-08-19 12:58:10 -0400
 categories: section-two
 permalink: chapter-3
 image: assets/images/pillar-1-student.png
+image-alt: An infographic depicting integrated student supports.
 download: assets/downloads/community-schools-playbook_chapter-3.pdf
 ---
 Community schools take a “whole-child” approach to supporting students’ educational and life success. This means that they pay explicit attention to students’ social and emotional development as well as their academic learning, recognizing that they are intertwined and mutually reinforcing. They provide and coordinate a range of on-site services and supports to overcome both academic and nonacademic barriers to students’ educational and life success. The mix of offerings can vary, since they are tailored to meet local needs, but some of the most common services and supports are medical, dental, and mental health care services; tutoring and other academic supports; and resources for families, such as parent education classes, job training and placement services, housing assistance, and nutrition programs. These programs may also provide conflict resolution training, trauma-informed care, and restorative practices to support mental health and lessen conflict, bullying, and punitive disciplinary actions, such as suspensions. Those in the community schools field use the phrase “integrated student supports”<sup>[6](#endnotes)</sup> to identify these critical components of community schools.

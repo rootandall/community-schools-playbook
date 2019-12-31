@@ -6,6 +6,7 @@ date:   2018-08-19 20:09:10 -0400
 categories: section-one
 permalink: chapter-2
 image: assets/images/one-hood-crop.jpg
+image-alt: People participating in a collaborative design session.
 download: assets/downloads/community-schools-playbook_chapter-2.pdf
 ---
 As noted in Chapter 1, the four pillars support and capitalize on rich, student-centered learning in and out of the classroom. Specific community schools may differ from one another, as schools and communities organize their local resources and use these pillars to transform teaching and learning, create positive school climates, and promote student success. In the most effective cases, community schools are an integral component of an equity strategy that recognizes and responds to structural inequities and in which the pillars are designed to support school transformation strategies aimed at improving teaching and learning. This approach can be implemented in a single school or as part of a systemwide initiative within a school district, city, or county.

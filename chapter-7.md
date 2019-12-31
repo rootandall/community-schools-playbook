@@ -6,6 +6,7 @@ date:   2018-08-23 21:15:10 -0400
 categories: section-three
 permalink: chapter-7
 image: assets/images/adults-group-crop.jpg
+image-alt: A person speaking to a group.
 download: assets/downloads/community-schools-playbook_chapter-7.pdf
 ---
 Thanks to high-quality public opinion research like the [2017 PDK Poll](http://pdkpoll.org/assets/downloads/PDKnational_poll_2017.pdf), we know there is strong support for key elements of community schools, such as medical and mental health services and afterschool programs.

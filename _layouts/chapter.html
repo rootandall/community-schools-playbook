@@ -43,8 +43,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                       <div class="8u 14u$(medium)">
                         {% if page.image %}
-                        <img src="{{ page.image | absolute_url }}" class="image chapter" width="850" height="auto" alt="" />
+                        <img src="{{ page.image | absolute_url }}" class="image chapter" width="850" height="auto" alt="{{ page.image-alt | default: 'An image representing the theme of this chapter.' }}" />
                         {% endif %}
+
                       </div>
                     </div>
                 	</header>

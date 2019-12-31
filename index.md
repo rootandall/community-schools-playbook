@@ -11,7 +11,7 @@ layout: home
 </header>
 <div class="posts">
 	<two-up>
-		<a href="chapter-1" class="image"><img src="assets/images/crowd-crop.jpg" alt="" /></a>
+		<a href="chapter-1" class="image"><img src="assets/images/crowd-crop.jpg" alt="A crowd of students." /></a>
 		<h3>An Introduction to Community Schools</h3>
 		<p>Learn about the definition of Community Schools, why they work, and what it takes to implement them.</p>
 		<ul class="actions">
@@ -19,7 +19,7 @@ layout: home
 		</ul>
 	</two-up>
 	<two-up>
-		<a href="chapter-2" class="image"><img src="assets/images/one-hood-crop.jpg" alt="" /></a>
+		<a href="chapter-2" class="image"><img src="assets/images/one-hood-crop.jpg" alt="People participating in a collaborative design session." /></a>
 		<h3>Policies that Advance Community Schools</h3>
 		<p>Understand the policy mechanisms and principles that underpin Community Schools and see how they are being implemented in states.</p>
 		<ul class="actions">
@@ -77,7 +77,7 @@ layout: home
 	</header>
 	<div class="posts">
 			<two-up>
-			<a href="chapter-7" class="image"><img src="assets/images/recording-roundtable-crop.jpg" alt="" /></a>
+			<a href="chapter-7" class="image"><img src="assets/images/recording-roundtable-crop.jpg" alt="Students talking in a recording studio." /></a>
 			<h3>Messaging</h3>
 			<p>Use this practical guidance, opinion research, and message points to be an effective communicator for community schools.</p>
 			<ul class="actions">
@@ -89,7 +89,7 @@ layout: home
 			</ul>
 		</two-up>
 		<two-up>
-			<a href="#" class="image"><img src="assets/images/pen-notes-crop.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/pen-notes-crop.jpg" alt="A person completing a worksheet." /></a>
 			<h3>Model Legislation</h3>
 			<p>Use these sample bills and resolutions to enact community schools policies at state, city, county, and school board levels.</p>
 			<ul class="actions">
@@ -104,7 +104,7 @@ layout: home
 		<hr>
 		<div class="posts">
 			<two-up>
-				<a href="essa" class="image"><img src="assets/images/screen-drawing-crop.jpg" alt="" /></a>
+				<a href="essa" class="image"><img src="assets/images/screen-drawing-crop.jpg" alt="A student drawing." /></a>
 				<h3>Community Schools in ESSA State Plans</h3>
 				<p>From Maryland to New Mexico, Ohio to Hawaii, see how states are activating community schools through ESSA.</p>
 				<ul class="actions">
@@ -112,7 +112,7 @@ layout: home
 				</ul>
 			</two-up>
 			<two-up>
-				<a href="implementation-resources" class="image"><img src="assets/images/posters-crop.jpg" alt="" /></a>
+				<a href="implementation-resources" class="image"><img src="assets/images/posters-crop.jpg" alt="A student in front of a wall of chart paper." /></a>
 				<h3>Implementation Resources</h3>
 				<p>A collection of guides, standards, strategies, and other tools for implementing Community Schools.</p>
 				<ul class="actions">
@@ -128,7 +128,7 @@ layout: home
 			</header>
 			<div class="posts">
 				<article>
-			<a href="videos-media#videos" class="image"><img src="assets/images/microphone-crop.jpg" alt="" /></a>
+			<a href="videos-media#videos" class="image"><img src="assets/images/microphone-crop.jpg" alt="A student recording an on-camera interview." /></a>
 			<h3>Videos </h3>
 			<p>Use these videos, graphics, and memes to share the story of Community Schools with your network.</p>
 			<ul class="actions">
@@ -136,7 +136,7 @@ layout: home
 			</ul>
 		</article>
 					<article>
-				<a href="videos-media#infographics" class="image"><img src="assets/images/infographic-banner.png" alt="" /></a>
+				<a href="videos-media#infographics" class="image"><img src="assets/images/infographic-banner.png" alt="An infographic about Community Schools." /></a>
 				<h3>Infographics</h3>
 				<p>Use these videos, graphics, and memes to share the story of Community Schools with your network.</p>
 				<ul class="actions">

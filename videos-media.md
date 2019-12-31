@@ -6,6 +6,7 @@ date:   2018-08-23 22:44:10 -0400
 categories: appendix
 permalink: videos-media
 image: assets/images/microphone-crop.jpg
+image-alt: A student recording an on-camera interview.
 ---
 
 #### Animated Explainer
@@ -42,7 +43,7 @@ Infographics created by [Learning Policy Institute](https://learningpolicyinstit
 
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/assets/images/four-pillars.png' class='download-image' download><img src='/assets/images/four-pillars-sample.png' width='425' height='519' /></a>
+					<a href='/assets/images/four-pillars.png' class='download-image' download><img src='/assets/images/four-pillars-sample.png' width='425' height='519' alt="A vertical infographic poster about Community Schools." /></a>
 			</div>
 			<div class='video-right'>
 					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Community Schools Infographic</span><br /><br /><a class='button' href='/assets/downloads/four-pillars.pdf' download>Download PDF</a><br /><br /><a class='button' href='/assets/images/four-pillars.png' download>Download PNG</a><br />
@@ -51,7 +52,7 @@ Infographics created by [Learning Policy Institute](https://learningpolicyinstit
 </div>
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/assets/images/four-pillars-horizontal.png' class='download-image' download><img src='/assets/images/four-pillars-horizontal-sample.png' width='425' height='245' /></a>
+					<a href='/assets/images/four-pillars-horizontal.png' class='download-image' download><img src='/assets/images/four-pillars-horizontal-sample.png' width='425' height='245' alt="A horizontal infographic about Community Schools." /></a>
 			</div>
 			<div class='video-right'>
 					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Horizontal Infographic</span><br /><br /><a class='button' href='/assets/images/four-pillars-horizontal.png' download>Download PNG</a>
@@ -59,7 +60,7 @@ Infographics created by [Learning Policy Institute](https://learningpolicyinstit
 </div>
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/assets/downloads/squares.zip' class='download-image' download><img src='/assets/images/squares-sample.png' width='425' height='425' /></a>
+					<a href='/assets/downloads/squares.zip' class='download-image' download><img src='/assets/images/squares-sample.png' width='425' height='425' alt="Square infographics about Community Schools."/></a>
 			</div>
 			<div class='video-right'>
 					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Pillar Infographics - Square</span><br /><br /><a class='button' href='/assets/downloads/squares.zip' download>Download PNGs</a>
@@ -67,7 +68,7 @@ Infographics created by [Learning Policy Institute](https://learningpolicyinstit
 </div>
 <div class='videos-container'>
 			<div class='video-left'>
-					<a href='/assets/downloads/horizontals.zip' class='download-image' download><img src='/assets/images/horizontals-sample.png' width='425' height='235' /></a>
+					<a href='/assets/downloads/horizontals.zip' class='download-image' download><img src='/assets/images/horizontals-sample.png' width='425' height='235' alt="Widescreen infographics about Community Schools."/></a>
 			</div>
 			<div class='video-right'>
 					<span style="text-transform:uppercase; letter-spacing:1.3px; color:#323232; font-weight:bold; font-family:'Roboto Slab', serif;">Pillar Infographics - Horizontal</span><br /><br /><a class='button' href='/assets/downloads/horizontals.zip' download>Download PNGs</a>

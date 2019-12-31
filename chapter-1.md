@@ -6,6 +6,7 @@ date:   2018-08-06 06:43:10 -0400
 categories: section-one
 permalink: chapter-1
 image: assets/images/crowd-crop.jpg
+image-alt: A crowd of students.
 download: assets/downloads/community-schools-playbook_chapter-1.pdf
 ---
 

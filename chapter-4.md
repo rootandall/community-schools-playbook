@@ -6,6 +6,7 @@ date:   2018-08-22 12:59:10 -0400
 categories: section-two
 permalink: chapter-4
 image: assets/images/pillar-2-learning.png
+image-alt: An infographic depicting expanded and enriched learning time and opportunities.
 download: assets/downloads/community-schools-playbook_chapter-4.pdf
 ---
 Expanded and enriched learning time and opportunities, the second pillar of community schools, are essential to schools’ capacity to support students’ academic growth, as well as to help them develop socially, emotionally, and physically. In addition to supporting rich, student-focused instruction in classrooms, community schools provide students with as much as one-third more learning time, in which they experience arts, physical activity, small group, or individualized academic support, and hands-on learning activities across a range of subject areas.

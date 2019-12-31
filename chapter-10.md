@@ -6,6 +6,7 @@ date:   2018-08-23 22:42:10 -0400
 categories: section-three
 permalink: chapter-10
 image: assets/images/chevron-table-crop.jpg
+image-alt: A person writing with pen and paper.
 download: assets/downloads/community-schools-playbook_chapter-10.pdf
 ---
 

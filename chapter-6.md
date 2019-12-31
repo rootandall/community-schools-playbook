@@ -6,6 +6,7 @@ date:   2018-08-23 09:49:10 -0400
 categories: section-two
 permalink: chapter-6
 image:  assets/images/pillar-4-leadership.png
+image-alt: An infographic depicting collaborative leadership and practices.
 download: assets/downloads/community-schools-playbook_chapter-6.pdf
 ---
 <!-- <p><span class="image right"><img src="assets/images/pillar-3-family_square.png" alt="" /></span>Active family and community engagement—the third pillar of community schools—is essential to fostering relationships of trust and respect, building the capacity of all stakeholders and the school, creating empowered decision-making processes, and leveraging local resources and expertise to address educational inequities. Community schools prioritize meaningful and ongoing engagement of families and community members and establish the systems, structures, and supports to make it happen. Educators and other staff at community schools understand that engagement happens on a continuum—from partnering with parents to develop and promote a vision for student success, to offering courses, activities, and services for parents and community members, to creating structures and opportunities for shared leadership. Families and community members, for their part, feel welcome, supported, and valued as essential partners.

@@ -6,6 +6,7 @@ date:   2018-08-23 21:15:10 -0400
 categories: section-three
 permalink: chapter-9
 image: assets/images/screen-drawing-crop.jpg
+image-alt: A student drawing.
 download: assets/downloads/community-schools-playbook_chapter-9.pdf
 ---
 
