@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Community Schools Playbook is a project of the Partnership for the Future of Learning to create a practical guide to advancing community schools strategies.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The [Partnership for the Future of Learning](https://futureforlearning.org/) protects, strengthens, and advances education equity and meaningful learning—and supports the policies and practices that get us there.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The Partnership for the Future of Learning is housed and supported by the [National Public Education Support Fund](https://www.npesf.org/).
