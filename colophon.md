@@ -12,7 +12,7 @@ The Community Schools Playbook was produced for the [Partnership for the Future 
 <dd>1900 L Street Northwest, Suite 520</dd>
 <dd>Washington, DC 20036</dd>
 <dd>(202) 684-8260</dd>
-<dd>[futureforlearning.org](https://futureforlearning.org/)</dd>
+<dd><a href="https://futureforlearning.org/">futureforlearning.org</a></dd>
 </dl>
 
 ### Design & Photography
