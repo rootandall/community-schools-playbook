@@ -22,7 +22,7 @@ The Community Schools Playbook was produced for the [Partnership for the Future 
 <dt>Website</dt>
 <dd>Made by <a href="http://rootandall.com/">Root + All</a></dd>
 <dd>Site template by <a href="https://html5up.net">HTML5 UP</a></dd>
-<dd>Jekyll integration <a href="https://andrewbanchi.ch">Andrew Banchich</a></dd>
+<dd>Jekyll integration <a href="https://github.com/andrewbanchich">Andrew Banchich</a></dd>
 <dd>Special thanks to <a href="https://github.com/matthannigan">Matt Hannigan</a></dd>
 </dl>
 
