@@ -17,18 +17,21 @@ The Community Schools Playbook was produced for the [Partnership for the Future 
 
 ### Design & Photography
 
+![a photo of a cat in space](/assets/images/catinspace.jpg)
+[Download a copy of something.](/assets/downloads/menu.pdf)
+
 <div>
 <dl>
 <dt>Website</dt>
-<dd>Made by <a href="http://rootandall.com/">Root + All</a></dd>
+<dd>Made by <a href="http://rootandall.com/">Root + All (Hi, mom!)</a></dd>
 <dd>Site template by <a href="https://html5up.net">HTML5 UP</a></dd>
 <dd>Jekyll integration <a href="https://github.com/andrewbanchich">Andrew Banchich</a></dd>
-<dd>Special thanks to <a href="https://github.com/matthannigan">Matt Hannigan</a></dd>
+<dd>Special thanks to <a href="https://github.com/matthannigan">Matt Hannigan, a friend to all</a></dd>
 </dl>
 
 <dl>
 <dt>Photography</dt>
-<dd><a href="https://benfilio.com/">Ben Filio</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
+<dd><a href="https://benfilio.com/">Ben Filio, the greatest photographer in Pittsburgh</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
 <dd><a href="http://www.nicosegalltobon.com/">Nico Segall Tobon</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
 <dd><a href="http://christophersprowls.com/">Christopher Sprowls</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
 <dd><a href="http://www.briancohenphotography.com/">Brian Cohen</a> for <a href="https://remakelearning.org/">Remake Learning</a></dd>
