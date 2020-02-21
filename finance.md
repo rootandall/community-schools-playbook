@@ -7,7 +7,7 @@ categories: section-three
 permalink: finance
 image: assets/images/chevron-table-crop.jpg
 image-alt: A person writing with pen and paper.
-download: assets/downloads/community-schools-playbook_chapter-10.pdf
+download: /assets/downloads/community-schools-playbook.pdf
 ---
 
 This is where the finance brief will go.
