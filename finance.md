@@ -10,4 +10,4 @@ image-alt: A person writing with pen and paper.
 download: /assets/downloads/community-schools-playbook.pdf
 ---
 
-This is where the finance brief will go.
+Finance brief coming soon.
