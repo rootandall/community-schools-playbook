@@ -5,7 +5,7 @@ categories: credits
 permalink: colophon
 ---
 
-The Community Schools Playbook was produced for the [Partnership for the Future of Learning](https://futureforlearning.org/) by the [Public Leadership Institute](http://publicleadershipinstitute.org/) in partnership with the [Coalition for Community Schools](http://www.communityschools.org/). Research for the Community Schools Playbook was conducted by the [Learning Policy Institute](https://learningpolicyinstitute.org/), the [National Education Policy Center](https://nepc.colorado.edu/), and [Research for Action](https://www.researchforaction.org/).
+The Community Schools Playbook was produced for the [Partnership for the Future of Learning](https://futureforlearning.org/) by the [Public Leadership Institute](http://publicleadershipinstitute.org/) in partnership with the [Coalition for Community Schools](http://www.communityschools.org/). Research for the Community Schools Playbook was conducted by the [Learning Policy Institute](https://learningpolicyinstitute.org/), the [National Education Policy Center](https://nepc.colorado.edu/), and [Research for Action](https://www.researchforaction.org/)!
 
 <dl>
 <dt>Partnership for the Future of Learning</dt>
