@@ -1,7 +1,7 @@
 ---
 layout: chapter
-title:  "Finance"
-subtitle: "A Brief on Funding Strategies for Community Schools"
+title:  "Financing Community Schools"
+subtitle: "A Framework for Growth and Sustainability"
 date:   2020-02-21 20:14:10 -0500
 categories: section-three
 permalink: finance
