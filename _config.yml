@@ -23,7 +23,7 @@ twitter_username: #
 github_username:  #
 twitter:
   card: summary
-logo:  "https://communityschools.futureforlearning.org/assets/images/pfl-logo_twitter.png" 
+logo:  "https://communityschools.futureforlearning.org/assets/images/pfl-logo_twitter.png"
 
 # Build settings
 markdown: kramdown
@@ -37,7 +37,7 @@ algolia:
     index_name: community-schools-playbook
     routing: true
     search_only_api_key: 01f15495b76fde59269d4c8e0ecab479
-    nodes_to_index: 'p,h1,h2,h3,h4,h5,dl,ul,ol,div.box,div.blockquote,div'
+    nodes_to_index: 'p,h1,h2,h3,h4,h5,dl,ul,ol,div.box,div.blockquote'
 
 
 # Exclude from processing.
