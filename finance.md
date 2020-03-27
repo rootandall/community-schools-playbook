@@ -7,7 +7,7 @@ categories: section-three
 permalink: finance
 image: assets/images/cs-graphic.jpg
 image-alt: A person writing with pen and paper.
-download: /assets/downloads/Financing-Community-Schools-Brief-03-2020.pdf
+download: /assets/downloads/Financing-Community-Schools-Brief-2020.pdf
 ---
 
 When it comes to financing community schools, leaders must find partners and funding to provide services and resources to support the work of coordination and collaboration, which is referred to as the infrastructure of community schools throughout this brief. Financing for community schools requires some combination of tapping and/or redeploying resources already available across a variety of programs, and finding additional funding to fill in gaps. While this sounds reasonably straightforward, creating a financing plan isn’t just about spreadsheets and funding sources. It requires nuanced relationship building, sound policies and programs, and a well-developed strategy. The following guidelines and considerations can help community school leaders with the complex work of developing and implementing financing plans that support all four pillars of community schools.
